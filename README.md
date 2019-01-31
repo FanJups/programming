@@ -27,6 +27,16 @@ https://stackify.com/solid-design-liskov-substitution-principle/
 
 https://github.com/francescopioscognamiglio/reshape_string/blob/master/Reshape_string.java
 
+## SPRING
+
+https://www.google.com/search?q=spring+for+beginners&oq=&sourceid=chrome&ie=UTF-8
+
+https://o7planning.org/en/10127/spring-tutorial-for-beginners
+
+## SPRING BOOT
+
+https://o7planning.org/en/11267/spring-boot-tutorial-for-beginners
+
 
 
 
