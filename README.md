@@ -53,6 +53,30 @@ https://www.javatpoint.com/spring-tutorial
 
 https://www.baeldung.com/spring-intro
 
+https://spring.io/guides/tutorials/spring-boot-oauth2/
+
+https://spring.io/guides/gs/messaging-stomp-websocket/
+
+### @secured spring
+
+https://www.google.com/search?q=%40secured+spring&oq=%40secure&aqs=chrome.2.69i57j69i59j0l4.5113j0j7&sourceid=chrome&ie=UTF-8
+
+## ngModel Angular
+
+https://angular.io/api/forms/NgModel
+
+## acces non autorisés angular
+
+https://www.google.com/search?ei=r5lSXJ6CGYayUtDUh5AO&q=acces+non+autoris%C3%A9s+angular&oq=acces+non+autoris%C3%A9s+angular&gs_l=psy-ab.3..35i39.3492.5898..6810...0.0..0.142.576.4j2......0....1..gws-wiz.......0i71j33i21j33i160.TBaxqNPbETM
+
+
+
+## seo friendly angular
+
+https://www.google.com/search?q=seo+friendly+angular&oq=seo+friendly+angular&aqs=chrome..69i57j0l5.7801j1j7&sourceid=chrome&ie=UTF-8
+
+https://snipcart.com/blog/angular-seo-universal-server-side-rendering
+
 
 
 
