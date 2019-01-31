@@ -23,6 +23,10 @@ https://fr.wikipedia.org/wiki/Principe_de_substitution_de_Liskov
 
 https://stackify.com/solid-design-liskov-substitution-principle/
 
+## function reshape (int n, String str)
+
+https://github.com/francescopioscognamiglio/reshape_string/blob/master/Reshape_string.java
+
 
 
 
