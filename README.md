@@ -33,9 +33,25 @@ https://www.google.com/search?q=spring+for+beginners&oq=&sourceid=chrome&ie=UTF-
 
 https://o7planning.org/en/10127/spring-tutorial-for-beginners
 
+https://o7planning.org/en/10959/spring-mvc
+
+https://o7planning.org/en/10129/spring-mvc-tutorial-for-beginners
+
+  ### java2blog is very interesting
+
+https://java2blog.com/introduction-to-spring-framework/
+
+https://docs.spring.io/spring/docs/1.2.x/reference/beans.html
+
 ## SPRING BOOT
 
 https://o7planning.org/en/11267/spring-boot-tutorial-for-beginners
+
+http://www.springboottutorial.com/introduction-to-spring-boot-for-beginners
+
+https://www.javatpoint.com/spring-tutorial
+
+https://www.baeldung.com/spring-intro
 
 
 
