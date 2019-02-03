@@ -1,6 +1,12 @@
 # programming
 This is where I save everything that sounds interesting for me about programming
 
+## learning artificial intelligence
+
+https://www.google.com/search?q=learning+artificial+intelligence&oq=learning+arti&aqs=chrome.1.69i57j0l5.9751j1j7&sourceid=chrome&ie=UTF-8
+
+https://ai.google/education/
+
 ## WELCOME AI (Artificial Intelligence)
 
 https://www.welcome.ai/
