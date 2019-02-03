@@ -1,6 +1,10 @@
 # programming
 This is where I save everything that sounds interesting for me about programming
 
+## WELCOME AI (Artificial Intelligence)
+
+https://www.welcome.ai/
+
 ## décalage logique
 
 décalage à gauche = multiplication par 2 en binaire
