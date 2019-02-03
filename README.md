@@ -1,6 +1,28 @@
 # programming
 This is where I save everything that sounds interesting for me about programming
 
+## tensorflow
+
+https://www.tensorflow.org/
+
+## tensorflow java
+
+https://www.google.com/search?q=tensorflow+java&oq=tensorflow+java&aqs=chrome..69i57j0l5.22638j1j7&sourceid=chrome&ie=UTF-8
+
+https://www.tensorflow.org/install/lang_java
+
+## AI LINKS
+
+https://medium.com/@josh.hutchins/5-ai-companies-that-are-bringing-healthcare-to-the-next-level-93e09e420cc9
+
+https://www.welcome.ai/news_info/business/artificial-intelligence-trends-in-2019
+
+https://www.welcome.ai/tech/data-science/tensorflow
+
+https://github.com/tensorflow/
+
+
+
 ## learning artificial intelligence
 
 https://www.google.com/search?q=learning+artificial+intelligence&oq=learning+arti&aqs=chrome.1.69i57j0l5.9751j1j7&sourceid=chrome&ie=UTF-8
