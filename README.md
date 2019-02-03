@@ -5,6 +5,14 @@ This is where I save everything that sounds interesting for me about programming
 
 https://www.welcome.ai/
 
+## WELCOME AI YOUTUBE CHANNEL
+
+https://www.youtube.com/channel/UC_215Y7rOAsqnFkO_hnpdIg
+
+## 13 of the smartest Artificial Intelligence companies according to MIT
+
+https://youtu.be/I4qM33A2OH8
+
 ## décalage logique
 
 décalage à gauche = multiplication par 2 en binaire
