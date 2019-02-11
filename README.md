@@ -5,6 +5,8 @@ This is where I save everything that sounds interesting for me about programming
 
 https://www.playframework.com/documentation/1.0.1/guide1
 
+https://www.playframework.com/documentation/fr/2.4.x/Home
+
 https://linsolas.developpez.com/articles/java/play/guide/
 
 ## tensorflow
