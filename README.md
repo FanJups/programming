@@ -3,6 +3,8 @@ This is where I save everything that sounds interesting for me about programming
 
 ## play framework java
 
+https://www.playframework.com/documentation/1.0.1/guide1
+
 https://linsolas.developpez.com/articles/java/play/guide/
 
 ## tensorflow
