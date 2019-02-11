@@ -1,6 +1,10 @@
 # programming
 This is where I save everything that sounds interesting for me about programming
 
+## play framework java
+
+https://linsolas.developpez.com/articles/java/play/guide/
+
 ## tensorflow
 
 https://www.tensorflow.org/
