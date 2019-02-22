@@ -1,6 +1,10 @@
 # programming
 This is where I save everything that sounds interesting for me about programming
 
+## java 8
+
+https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/5012411-creez-des-classes-anonymes-des-interfaces-fonctionnelles-des-lambdas-et-des-references-de-methode
+
 ## ext js
 
 https://www.google.com/search?q=ext+js&oq=ext+js&aqs=chrome..69i57j0l5.3210j1j7&sourceid=chrome&ie=UTF-8
