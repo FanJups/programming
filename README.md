@@ -1,6 +1,12 @@
 # programming
 This is where I save everything that sounds interesting for me about programming
 
+## spring boot angular js project example
+
+https://www.google.com/search?q=spring+boot+angular+js+project+example&oq=spring+boot+angular+js+project+example&aqs=chrome..69i57j0.17350j1j7&sourceid=chrome&ie=UTF-8
+
+https://o7planning.org/fr/11793/exemple-crud-avec-spring-boot-rest-et-angularjs
+
 ## java 8
 
 https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/5012411-creez-des-classes-anonymes-des-interfaces-fonctionnelles-des-lambdas-et-des-references-de-methode
