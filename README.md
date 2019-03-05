@@ -2,6 +2,9 @@
 This is where I save everything that sounds interesting for me about programming
 
 ## spring boot azure
+https://www.google.com/search?q=spring+boot+azure&oq=spring+boot+azure&aqs=chrome..69i57j69i60j0l4.13188j1j7&sourceid=chrome&ie=UTF-8
+
+https://cloud.spring.io/spring-cloud-azure/
 
 https://www.baeldung.com/spring-boot-azure
 
