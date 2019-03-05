@@ -1,6 +1,10 @@
 # programming
 This is where I save everything that sounds interesting for me about programming
 
+## spring boot azure
+
+https://www.baeldung.com/spring-boot-azure
+
 ## spring boot angular js project example
 
 https://www.google.com/search?q=spring+boot+angular+js+project+example&oq=spring+boot+angular+js+project+example&aqs=chrome..69i57j0.17350j1j7&sourceid=chrome&ie=UTF-8
