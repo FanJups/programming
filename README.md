@@ -8,11 +8,19 @@ https://cloud.spring.io/spring-cloud-azure/
 
 https://www.baeldung.com/spring-boot-azure
 
-## spring boot angular js project example
+## spring boot angular js database project example
 
 https://www.google.com/search?q=spring+boot+angular+js+project+example&oq=spring+boot+angular+js+project+example&aqs=chrome..69i57j0.17350j1j7&sourceid=chrome&ie=UTF-8
 
 https://o7planning.org/fr/11793/exemple-crud-avec-spring-boot-rest-et-angularjs
+
+https://www.google.com/search?q=spring+boot+angular+mysql+example&oq=Spring+boot+Angular+Mysql+&aqs=chrome.1.69i57j0l5.19824j1j7&sourceid=chrome&ie=UTF-8
+
+https://grokonez.com/spring-framework/spring-data/spring-boot-angular-6-example-spring-data-jpa-rest-mysql-crud-example
+
+https://www.devglan.com/spring-boot/spring-boot-angular-example
+
+https://dzone.com/articles/java-8-springboot-angularjs-bootstrap-springdata-j
 
 ## java 8
 
