@@ -22,6 +22,14 @@ https://www.devglan.com/spring-boot/spring-boot-angular-example
 
 https://dzone.com/articles/java-8-springboot-angularjs-bootstrap-springdata-j
 
+https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-and-angularjs-integration-tutorial/
+
+http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
+
+https://java2blog.com/spring-boot-angularjs-example/
+
+https://developer.okta.com/blog/2017/12/04/basic-crud-angular-and-spring-boot
+
 ## java 8
 
 https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/5012411-creez-des-classes-anonymes-des-interfaces-fonctionnelles-des-lambdas-et-des-references-de-methode
