@@ -30,6 +30,8 @@ https://java2blog.com/spring-boot-angularjs-example/
 
 https://developer.okta.com/blog/2017/12/04/basic-crud-angular-and-spring-boot
 
+https://www.devglan.com/spring-security/angular-jwt-authentication
+
 ## java 8
 
 https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/5012411-creez-des-classes-anonymes-des-interfaces-fonctionnelles-des-lambdas-et-des-references-de-methode
