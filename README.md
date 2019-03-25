@@ -170,6 +170,9 @@ https://snipcart.com/blog/angular-seo-universal-server-side-rendering
 
 ## arrondi à l'entier inférieur java
 
+Math.floor()
+
+arrondi entier supérieur Math.ceil()
 https://www.google.com/search?q=arrondi+%C3%A0+l%27entier+inf%C3%A9rieur+java&oq=arrondi+%C3%A0+l%27entier+inf%C3%A9rieur+java&aqs=chrome..69i57j0l2.24050j0j7&sourceid=chrome&ie=UTF-8
 
 https://www.jmdoudoux.fr/java/dej/chap-math.htm#math-4
