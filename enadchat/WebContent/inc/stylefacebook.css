@@ -1,0 +1,219 @@
+@CHARSET "UTF-8";
+
+@font-face{
+	
+	font-family:'agencyfb';
+	
+	src:url('agencyfb.eot') format('eot'); /* IE9 Compat Modes */
+	src: url('agencyfb.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('agencyfb.woff2') format('woff2'),/* Super Modern Browsers */
+	url('agencyfb.woff') format('woff'), /* Pretty Modern Browsers */
+	
+	url('agencyfb.ttf') format('truetype'),/* Safari, Android, iOS */
+	
+	url('agencyfb.svg#svgFontName') format('svg');/* Legacy iOS */
+	
+}
+
+body{
+	
+	background-color:#ecf0f1;
+	
+	margin:0px;
+	
+	font-family:sans-serif;
+	
+	
+}
+
+.chat_box ,.msg_box{
+	
+	position:fixed;
+	
+	cursor:pointer;
+	
+	bottom:0px;
+	
+	right:20px;
+	
+	background:white;
+	
+	width:250px;
+	
+	
+	
+	border-radius:5px 5px 0px 0px;
+	
+}
+
+.chat_head,.msg_head{
+	
+	background:#f39c12;
+	
+	padding:15px;
+	
+	color:white;
+	
+	border-radius:5px 5px 0px 0px;
+	
+	
+}
+
+.chat_body{
+	
+	height:400px;
+}
+
+.msg_body{
+	
+	height:250px;
+	
+	font-size:12px;
+	
+	overflow:auto;
+	
+	overflow-x:hidden;
+}
+.msg_a{
+	
+	min-height:15px;
+	
+	margin-top:10px;
+	
+	margin-right:20px;
+	
+	padding:15px;
+	
+	
+	border-radius:5px;
+	
+	margin-left:20px;
+	
+	background:#bdc3c7;
+	
+	position:relative;
+}
+
+.msg_a:before{
+	
+	content:"";
+	
+	position:absolute;
+	
+	width:0px;
+	
+	height:0px;
+	
+	border:15px solid;
+	
+	left:-29px;
+	
+	top:7px;
+	
+	border-color:transparent #bdc3c7 transparent transparent;
+}
+
+.msg_b{
+	
+	min-height:15px;
+	
+	margin-top:10px;
+	
+	margin-right:20px;
+	
+	padding:15px;
+	
+	
+	border-radius:5px;
+	
+	margin-left:20px;
+	
+	background:#ffff99;
+	
+	position:relative;
+}
+
+.msg_b:before{
+	
+	content:"";
+	
+	position:absolute;
+	
+	width:0px;
+	
+	height:0px;
+	
+	border:15px solid;
+	
+	right:-29px;
+	
+	top:7px;
+	
+	border-color:transparent transparent transparent #ffff99;
+}
+.msg_head{
+	
+	background:#3498db;
+}
+
+.close{
+	
+	float:right;
+}
+
+.msg_input{
+	
+	width:100%;
+	
+	padding:3px;
+	
+	border:transparent;
+	
+	border-top:1px solid #bdc37c;
+	
+	-webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.user{
+	
+	padding:20px 25px;
+	
+	cursor:pointer;
+	
+	position:relative;
+}
+
+.user:hover{
+	
+	background:#f8f8f8;
+}
+
+.user:before{
+	
+	position:absolute;
+	
+	width:10px;
+	
+	height:10px;
+	
+	background:#2ecc71;
+	
+	content:"";
+	
+	left:8px;
+	
+	top:24px;
+	
+	border-radius:5px;
+}
+
+.msg_box{
+	width:250px;
+	
+	bottom:-5px;
+	
+	background:white;
+	
+}

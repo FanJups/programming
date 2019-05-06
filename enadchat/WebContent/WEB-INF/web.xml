@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>enadchat</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <filter>
+    <filter-name>Set Character Encoding</filter-name>
+    <filter-class>org.apache.catalina.filters.SetCharacterEncodingFilter</filter-class>
+    <init-param>
+      <param-name>encoding</param-name>
+      <param-value>UTF-8</param-value>
+    </init-param>
+    <init-param>
+      <param-name>ignore</param-name>
+      <param-value>false</param-value>
+    </init-param>
+  </filter>
+  <filter-mapping>
+    <filter-name>Set Character Encoding</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+  <listener>
+    <listener-class>enadchat.config.InitialisationDaoFactory</listener-class>
+  </listener>
+  
+  <filter>
+  
+  <filter-name>RestrictionFilter</filter-name>
+  <filter-class>enadchat.filters.RestrictionFilter</filter-class>
+  
+  
+  </filter>
+  
+  <filter-mapping>
+  
+  <filter-name>RestrictionFilter</filter-name>
+  <url-pattern>/*</url-pattern>
+  
+  
+  </filter-mapping>
+  
+  
+  
+  
+  
+  <servlet>
+    <servlet-name>Chat</servlet-name>
+    <servlet-class>enadchat.servlets.Chat</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Deconnexion</servlet-name>
+    <servlet-class>enadchat.servlets.Deconnexion</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>AccueilChat</servlet-name>
+    <servlet-class>enadchat.servlets.AccueilChat</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>InscriptionConnexionUtilisateur</servlet-name>
+    <servlet-class>enadchat.servlets.InscriptionConnexionUtilisateur</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>InscriptionUtilisateur</servlet-name>
+    <servlet-class>enadchat.servlets.InscriptionUtilisateur</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ConnexionUtilisateur</servlet-name>
+    <servlet-class>enadchat.servlets.ConnexionUtilisateur</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Chat</servlet-name>
+    <url-pattern>/chat</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Deconnexion</servlet-name>
+    <url-pattern>/deconnexion</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AccueilChat</servlet-name>
+    <url-pattern>/accueilchat</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>InscriptionConnexionUtilisateur</servlet-name>
+    <url-pattern>/inscription_connexion_utilisateur</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>InscriptionUtilisateur</servlet-name>
+    <url-pattern>/inscription_utilisateur</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ConnexionUtilisateur</servlet-name>
+    <url-pattern>/connexion_utilisateur</url-pattern>
+  </servlet-mapping>
+</web-app>

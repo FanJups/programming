@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+  xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+   id="WebApp_ID"
+    version="3.1">
+  <display-name>tp1</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  
+  <filter>
+  
+          <filter-name>Set Character Encoding</filter-name>
+          <filter-class>org.apache.catalina.filters.SetCharacterEncodingFilter</filter-class>
+          <init-param>
+                     <param-name>encoding</param-name>
+                     <param-value>UTF-8</param-value>
+          </init-param>
+          <init-param>
+                     <param-name>ignore</param-name>
+                     <param-value>false</param-value>
+          </init-param>
+          
+  </filter>
+  
+  <filter-mapping>
+                 <filter-name>Set Character Encoding</filter-name>
+                 <url-pattern>/*</url-pattern>
+  </filter-mapping>
+  
+  <filter>
+  
+          <filter-name>PrechargementFilter</filter-name>
+          <filter-class>com.sdzee.tp.filters.PrechargementFilter</filter-class>
+  </filter>
+  
+  <filter-mapping>
+                  <filter-name>PrechargementFilter</filter-name>
+                  <url-pattern>/*</url-pattern>
+  </filter-mapping>
+  
+  <listener>
+            <listener-class>com.sdzee.tp.config.InitialisationDaoFactory</listener-class>
+  </listener>
+  
+  <servlet>
+          <servlet-name>CreationClient</servlet-name>
+          <servlet-class>com.sdzee.tp.servlets.CreationClient</servlet-class>
+          <init-param>
+          <param-name>chemin</param-name>
+          <param-value>/fichiers/images/</param-value>
+          </init-param>
+          <multipart-config>
+          <location>c:/fichiers/images</location>
+          <max-file-size>2097152</max-file-size> <!-- 2 Mo -->
+          <max-request-size>10485760</max-request-size> <!-- 5*2 Mo -->
+          <file-size-threshold>1048576</file-size-threshold> <!-- 1 Mo -->
+          </multipart-config>
+  </servlet>
+  
+  <servlet>
+          <servlet-name>ListeClients</servlet-name>
+          <servlet-class>com.sdzee.tp.servlets.ListeClients</servlet-class>
+  </servlet>
+  
+  <servlet>
+          <servlet-name>SuppressionClient</servlet-name>
+          <servlet-class>com.sdzee.tp.servlets.SuppressionClient</servlet-class>
+  </servlet>
+  
+  <servlet>
+          <servlet-name>CreationCommande</servlet-name>
+          <servlet-class>com.sdzee.tp.servlets.CreationCommande</servlet-class>
+          <init-param>
+          <param-name>chemin</param-name>
+          <param-value>/fichiers/images/</param-value>
+          </init-param>
+          <multipart-config>
+          <location>c:/fichiers/images</location>
+          <max-file-size>2097152</max-file-size> <!-- 2 Mo -->
+          <max-request-size>10485760</max-request-size> <!-- 5*2 Mo -->
+          <file-size-threshold>1048576</file-size-threshold> <!-- 1 Mo -->
+          </multipart-config>
+  </servlet>
+  
+  <servlet>
+          <servlet-name>ListeCommandes</servlet-name>
+          <servlet-class>com.sdzee.tp.servlets.ListeCommandes</servlet-class>
+  </servlet>
+  
+  <servlet>
+          <servlet-name>SuppressionCommande</servlet-name>
+          <servlet-class>com.sdzee.tp.servlets.SuppressionCommande</servlet-class>
+  </servlet>
+  
+  <servlet>
+           <servlet-name>Image</servlet-name>
+           <servlet-class>com.sdzee.tp.servlets.Image</servlet-class>
+           <init-param>
+           <param-name>chemin</param-name>
+           <param-value>/fichiers/images/</param-value>
+           </init-param>
+  </servlet>
+  
+  <servlet-mapping>
+                  <servlet-name>CreationClient</servlet-name>
+                  <url-pattern>/creationClient</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+                  <servlet-name>ListeClients</servlet-name>
+                  <url-pattern>/listeClients</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+                  <servlet-name>SuppressionClient</servlet-name>
+                  <url-pattern>/suppressionClient</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+                  <servlet-name>CreationCommande</servlet-name>
+                  <url-pattern>/creationCommande</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+                  <servlet-name>ListeCommandes</servlet-name>
+                  <url-pattern>/listeCommandes</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+                  <servlet-name>SuppressionCommande</servlet-name>
+                  <url-pattern>/suppressionCommande</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+                  <servlet-name>Image</servlet-name>
+                  <url-pattern>/images/*</url-pattern>
+  </servlet-mapping>
+  
+  
+</web-app>
