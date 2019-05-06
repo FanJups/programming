@@ -1,0 +1,13 @@
+div
+{
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+   
+
+    /* Transition "ease" de 2s sur background-color 
+    et transition linéaire de 1s sur la largeur en parallèle */
+    transition: background-color 2s ease, width 1s linear;
+
+}
+

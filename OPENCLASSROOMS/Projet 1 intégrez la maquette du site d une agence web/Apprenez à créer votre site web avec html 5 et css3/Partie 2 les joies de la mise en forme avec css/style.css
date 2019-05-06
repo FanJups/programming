@@ -1,0 +1,56 @@
+
+/*
+style.css
+---------
+ 
+Par Fanon JUPKWO
+*/
+
+@font-face { /* Définition d'une nouvelle police nommée CAC Champagne */
+    font-family: 'cac_champagneregular';
+    src: url('cac_champagne-webfont.eot');
+    src: url('cac_champagne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('cac_champagne-webfont.woff') format('woff'),
+         url('cac_champagne-webfont.ttf') format('truetype'),
+         url('cac_champagne-webfont.svg#cac_champagneregular') format('svg');
+}
+
+.salutations
+{
+    color: blue;
+}
+
+p
+{
+    font-size: 0.8em; /* Paragraphes de 14 pixels */
+}
+h1
+{
+    font-size: 1.3em; /* Titres de 40 pixels */
+
+    color:maroon;
+}
+
+h1 /* Utilisation de la police qu'on vient de définir sur les titres */
+{
+    font-family: 'cac_champagneregular', Arial, serif;
+
+    opacity: 0.6;
+}
+
+p
+{
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+}
+
+h1
+{
+    border: 3px blue dashed;
+}
+
+p
+{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+

@@ -1,0 +1,35 @@
+
+**Comment j'ai choisi un thème ?**
+
+1- Aller dans le dashboard
+2- Cliquer sur Apparence
+3- Cliquer sur Thèmes
+4- Cliquer sur Ajouter
+5- Cliquer sur Populaires
+6- J'ai choisi le thème Hestia
+7- J'ai cliqué sur installer
+8- J'ai cliqué sur activer
+
+**Qu'est ce que j'ai changé dans le personnaliseur ?**
+
+1-J'ai changé la section du gros titre
+2- J'ai changé d'image d'accueil
+3- J'ai modifié mon menu
+4- j'ai changé la couleur du bouton de ma page d'accueil
+5- j'ai ajouté un logo
+
+**CSS changé**
+
+1- Modification du margin bottom du titre de mon site
+
+**Calendrier plugin**
+
+Apparence
+
+Widgets
+
+Gérer avec l'aperçu en direct
+
+Pied
+
+Ajouter un plugin

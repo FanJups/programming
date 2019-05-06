@@ -1,0 +1,7 @@
+div
+{
+      background: repeating-radial-gradient(farthest-side ellipse at center, green, red, green 80px);
+    width:500px;
+
+    height: 500px;
+}

@@ -1,0 +1,20 @@
+
+NB: La page fonctionne sans problème sur google ; opera et mozilla.
+
+1 Je définis ma structure HTML
+
+	Je crée une balise div qui contient 4 paragraphes.
+
+	De plus j'insère une balise audio.
+
+2 Je définis l'aspect initial de la structure en CSS
+
+	Je fais en sorte que seul le premier paragraphe soit visible.
+
+	De plus, j'attribue des couleurs aux éléments.
+
+3 Je modifie mon fichier anniversaire.js pour répondre aux évènements.
+
+	Je fais apparaître les éléments après un clic sur le paragraphe précédent.
+
+	En cliquant sur le dernier paragraphe, je joue un son et je modifie l'aspect initial de la page.

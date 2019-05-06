@@ -1,0 +1,384 @@
+
+
+html,body
+{
+	max-width: 100%;
+
+        overflow-x: hidden;
+
+
+}
+
+body
+{
+	background-color: #0d1119;
+	font-family: 'Signika', sans-serif;
+}
+
+
+
+
+#homme_femme_parlent
+{
+	background-image: url("img/hero.jpg");
+	width:100%;
+	height: 891px;
+	background-size: 100% 100%;
+	
+
+	
+}
+
+.navcolor
+{
+	background-color: #192a56;
+	opacity: .3;
+	border-color: transparent;
+}
+
+.logo_et_nav
+{
+	margin: 0 auto;
+	padding:0 30px;
+	line-height: 90px;
+}
+
+.logo
+{
+	float: left;
+}
+
+.specialnav
+{
+	float: right;
+	margin-bottom: 0;
+	padding-left: 0;
+	list-style: none;
+}
+
+.logo_et_nav .specialnav li 
+{
+    display: inline-block;
+    margin-right: 65px;
+
+}
+
+
+
+#about_color,#how_it_works_color,#services_color,#faq_color,#contact_color
+{
+	color:white;
+}
+
+ 
+
+.fitness_in_a_can
+{
+	position: absolute;
+    bottom: 150px;
+    left: 115px;
+}
+
+.fiac_one
+{
+	margin-bottom: 0;
+    font-size: 40px;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: white;
+}
+
+.fiac_two
+{
+	position: relative;
+    left: 158px;
+    margin-top: -10px;
+    margin-bottom: 0;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    color: white;
+}
+
+#fiac_one_slash
+{
+	color:#a2ca28;
+}
+
+#fiac_two_slash
+{
+	color:#fd634e;
+}
+
+
+
+.figure_rouge
+{
+	position: absolute;
+    bottom: 0;
+    left: 0;
+    right:0;
+    -webkit-transform: skewY(-2deg);
+    transform: skewY(-2deg);
+    -webkit-transform-origin: right;
+    transform-origin: right;
+    width: 100%;
+    height: 100px;
+    background-color: #fd634e;
+    opacity: .3;
+    
+    
+
+}
+
+#fond_vert
+{
+	position: relative;
+	width: 100%;
+	
+	
+	padding-bottom:0; 
+	padding-top:100px;
+	padding-left: 0px;
+	padding-right:0px;
+	background-color: #a2ca28;
+}
+
+.textes_verts
+{
+	margin: 0 auto;
+	padding:0 30px;
+	
+}
+
+#yoga
+{
+	background-image: url("img/yoga.jpg");
+	
+	height: 394px;
+	background-size: 100% 100%;
+
+
+	
+
+
+
+}
+
+.texte_fond_blanc
+{
+	
+    
+    background-color: #fff;
+    
+	height: 394px;
+	
+	
+}
+
+
+
+h3
+{
+	margin-bottom: -5px; color: #fd634e;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px; 
+    font-weight: bold;
+}
+
+h2
+{
+	color: #a2ca28;
+    font-size: 35px;
+    font-weight: 300;
+    text-transform: uppercase;
+
+}
+
+.text_o
+{
+	padding: 0 10px; 
+	margin:0 auto;
+	text-align: center;
+}
+
+.active_users
+{
+	position: absolute;
+    right: 45px;
+    bottom: 45px;
+}
+
+#applewatch
+{
+	background-image: url("img/apple-watch.jpg");
+	
+	height: 394px;
+	background-size: 100% 100%;
+}
+
+.active_users_left
+{
+	position: absolute;
+    left: 45px;
+    bottom: 45px;
+}
+
+
+#fond_rouge
+{
+	position: relative;
+	width: 100%;
+	
+	padding: 0;
+	background-color: #fd634e;
+}
+
+
+#jogging
+{
+	background-image: url("img/jogging.jpg");
+	
+	height: 600px;
+	background-size: 100% 100%;
+}
+
+#beach
+{
+	background-image: url("img/beach.jpg");
+	
+	height: 600px;
+	background-size: 100% 100%;
+}
+
+.texte_fond_blanc_petit
+{
+	
+    
+    background-color: #fff;
+    
+	height: 300px;
+	
+	
+}
+
+.texte_fond_vert
+{
+	
+    
+    background-color:#a2ca28;
+    
+	height: 300px;
+	
+	
+}
+
+#mangue
+{
+	background-image: url("img/eating-habits.jpg");
+	
+	height: 359px;
+	background-size: 100% 100%;
+}
+
+#cerise
+{
+	background-image: url("img/self-involved.jpg");
+	
+	height: 359px;
+	background-size: 100% 100%;
+}
+
+.texte_fond_blanc_petit_petit
+{
+	
+    
+    background-color: #fff;
+    
+	height: 250px;
+	
+	
+}
+
+.texte_fond_vert_petit
+{
+	
+    
+    background-color:#a2ca28;
+    
+	height: 250px;
+	
+	
+}
+
+#garçon_soleil
+{
+	background-image: url("img/footer.jpg");
+	
+	height: 724px;
+	background-size: 100% 100%;
+}
+
+
+.transformation_gauche
+{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: skewY(-3.5deg);
+    transform: skewY(-3.5deg);
+    -webkit-transform-origin: left;
+    transform-origin: left;
+    background-color: #0d1119;
+}
+
+.transformation_droite
+{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: skewY(3deg);
+    transform: skewY(3deg);
+    -webkit-transform-origin: right;
+    transform-origin: right;
+    background-color: #0d1119;
+}
+
+.fente_rouge
+{
+	position: relative;
+    left: -60%;
+    -webkit-transform: skewX(88deg);
+    transform: skewX(88deg);
+    width: 100%;
+    height: 30px;
+    margin-bottom: 50px;
+    background-color: #fd634e;
+    overflow: hidden;
+    
+}
+
+.position_texte
+{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 100%;
+    padding: 0 15px;
+}
+
+h1
+{
+	margin-bottom: 15px;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 42px;
+    margin-top: 0;
+    margin: 0.67em 0;
+    color:white;
+}

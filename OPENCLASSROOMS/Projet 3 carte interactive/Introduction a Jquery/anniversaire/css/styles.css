@@ -1,0 +1,98 @@
+
+
+
+body
+{
+	display: flex; 
+
+	flex-direction: column;
+
+	justify-content: space-around;
+
+	align-items: center;
+
+	background-color: #ecf0f1
+
+	
+
+	background-size: 100% 100%;
+}
+
+
+
+#bloc_page
+{
+	width: 500px;
+
+	height: 500px;
+
+	border: 5px outset #3498db;
+
+	padding: 12px;
+
+	margin-top: 50px;
+
+	text-align: center;
+
+	display: flex;
+
+	flex-direction: column;
+
+	justify-content: space-around;
+
+	align-items:center;
+
+	cursor: pointer;
+}
+
+#para0
+{
+	border: 5px outset #e74c3c;
+
+	padding: 30px;
+
+	font-size: 2em;
+
+	font-weight: bolder;
+
+	
+}
+
+#para1
+{
+	border: 5px outset #e67e22;
+
+	padding: 12px;
+
+	font-size: 1.5em;
+
+	font-weight: bold;
+
+	display: none;
+}
+
+#para2
+{
+	border: 5px outset #f39c12;
+
+	padding: 12px;
+
+	font-size: 1.5em;
+
+	font-weight: bold;
+
+	display: none;
+}
+
+#para3
+{
+	border: 5px outset #16a085;
+
+	padding: 12px;
+
+	font-size: 1.5em;
+
+	font-weight: bold;
+
+	display: none;
+}

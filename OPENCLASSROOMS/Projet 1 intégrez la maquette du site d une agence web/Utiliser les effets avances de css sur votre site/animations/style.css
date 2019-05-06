@@ -1,0 +1,36 @@
+@keyframes movemydiv {
+    from {
+        transform: translateX(0px);
+    }
+
+    30% {
+        transform: translateX(150px);
+    }
+
+    60% {
+        transform: translateX(150px) rotate(30deg);
+    }
+
+    80% {
+        transform: translate(100px, 80px) rotate(30deg);
+    }
+
+    to {
+        transform: translate(100px, 80px) rotate(30deg);
+        border-radius: 30px;
+        background-color: red;
+    }
+}
+
+div
+{
+    margin: 100px;
+    width: 200px;
+    height: 150px;
+    background-color: #008;
+}
+
+div:hover
+{
+    animation: movemydiv 2s linear alternate infinite; /* Boucle d'animation ! */
+}
