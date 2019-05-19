@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+c:\users\admin\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+c:\users\admin\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+c:\users\admin\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.TextToSpeech.resources
