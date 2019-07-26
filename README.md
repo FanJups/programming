@@ -187,6 +187,10 @@ https://www.google.com/search?q=arrondi+%C3%A0+l%27entier+inf%C3%A9rieur+java&oq
 
 https://www.jmdoudoux.fr/java/dej/chap-math.htm#math-4
 
+## Validate phone number in java
+
+https://java2blog.com/validate-phone-number-java/
+
 
 
 
