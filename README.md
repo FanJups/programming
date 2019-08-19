@@ -197,6 +197,13 @@ https://www.google.com/search?client=ms-android-transsion-tecno-rev1&ei=QWdOXbf6
 
 https://www.google.com/search?q=how+to+work+at+uber+github+medium&oq=how+to+work+at+uber+github+medium&aqs=chrome..69i57.36192j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8#sbfbu=1&pi=how%20to%20work%20at%20uber%20github%20medium
 
+## junior developer
+
+https://medium.com/@awasum/advice-to-a-junior-developer-f9804c82fbe3
+
+## java
+
+https://medium.com/@jianbao.tao/a-study-list-for-java-developers-56a3f35527a5
 
 
 
