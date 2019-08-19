@@ -191,6 +191,12 @@ https://www.jmdoudoux.fr/java/dej/chap-math.htm#math-4
 
 https://java2blog.com/validate-phone-number-java/
 
+## uber
+
+https://www.google.com/search?client=ms-android-transsion-tecno-rev1&ei=QWdOXbf6C4XF8gLZgbXACw&q=apply+to+uber+using+github+medium&oq=apply+to+uber+using+github+medium&gs_l=mobile-gws-wiz-serp.3...32728.36384..37778...0.0..0.306.1812.2-6j1......0....1.........0i71j33i21j33i160.MWtGU1vaDtE
+
+https://www.google.com/search?q=how+to+work+at+uber+github+medium&oq=how+to+work+at+uber+github+medium&aqs=chrome..69i57.36192j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8#sbfbu=1&pi=how%20to%20work%20at%20uber%20github%20medium
+
 
 
 
