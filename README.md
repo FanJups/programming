@@ -42,6 +42,9 @@ https://www.devglan.com/spring-security/angular-jwt-authentication
 
 https://github.com/wkrzywiec/Library-Spring
 
+----
+https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-1/
+
 ## java 8
 
 https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/5012411-creez-des-classes-anonymes-des-interfaces-fonctionnelles-des-lambdas-et-des-references-de-methode
