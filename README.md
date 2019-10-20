@@ -208,5 +208,17 @@ https://medium.com/@awasum/advice-to-a-junior-developer-f9804c82fbe3
 
 https://medium.com/@jianbao.tao/a-study-list-for-java-developers-56a3f35527a5
 
+# java logging
+
+https://www.google.com/search?sxsrf=ACYBGNTwfPrxQMQqeWl80ASJV49Or67NKA%3A1571586315669&ei=C4GsXabAKJG11fAP17iHmAM&q=java+logging+best+frameworks&oq=java+logging+best+frameworks&gs_l=psy-ab.3..0i22i30l5.71888.79405..79987...0.2..0.842.7006.2-9j4j3j2j1......0....1..gws-wiz.......0i71j35i39i19j0i203j0i8i13i30.VXLMS2jiISs&ved=0ahUKEwjm8dCgl6vlAhWRWhUIHVfcATMQ4dUDCAs&uact=5
+
+https://www.vogella.com/tutorials/Logging/article.html
+
+https://www.jmdoudoux.fr/java/dej/chap-logging.htm
+
+http://www.slf4j.org/
+
+https://dzone.com/articles/java-logging-frameworks-and-tools
+
 
 
