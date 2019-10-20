@@ -220,5 +220,21 @@ http://www.slf4j.org/
 
 https://dzone.com/articles/java-logging-frameworks-and-tools
 
+https://www.google.com/search?q=slf4j+usage&oq=slf4j+usage&aqs=chrome..69i57j0l5.14952j0j7&sourceid=chrome&ie=UTF-8
+
+https://dzone.com/articles/logging-with-slf4j
+
+# use slf4j and log4j2 with maven
+
+https://www.google.com/search?q=use+slf4j+and+log4j2+with+maven&oq=use+slf4j+and+log4j2+with+maven&aqs=chrome..69i57j33l2.39912j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.logicbig.com/tutorials/misc/java-logging/slf4j-with-log4j2.html
+
+https://stackoverflow.com/questions/25386651/slf4j-log4j2-maven-setup-query
+
+https://www.baeldung.com/slf4j-with-log4j2-logback
+
+https://logging.apache.org/log4j/2.x/log4j-slf4j-impl/index.html
+
 
 
