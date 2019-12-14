@@ -322,6 +322,10 @@ https://www.zdnet.com/google-amp/article/microsoft-we-want-you-to-learn-python-p
 
 https://github.com/FanJups/developer-roadmap
 
+# micronaut-data 
+
+https://github.com/micronaut-projects/micronaut-data
+
 
 
 
