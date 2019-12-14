@@ -334,6 +334,10 @@ https://www.ng-book.com/2/
 
 https://www.techiediaries.com/angular-tutorial/
 
+# practical angular
+
+https://leanpub.com/practical-angular
+
 
 
 
