@@ -402,6 +402,10 @@ https://medium.com/firebase-developers/how-to-become-a-google-developer-expert-g
 
 https://www.baeldung.com/java-ai
 
+# Spring Boot Security AutoConfiguration
+
+https://www.baeldung.com/spring-boot-security-autoconfiguration
+
 
 
 
