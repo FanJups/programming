@@ -394,6 +394,10 @@ https://www.baeldung.com/java-system-out-println-vs-loggers
 
 https://medium.com/better-programming/13-tips-for-writing-useful-unit-tests-ca20706b5368
 
+# become a google developer expert
+
+https://medium.com/firebase-developers/how-to-become-a-google-developer-expert-gde-a-practical-guide-83621d2c8087
+
 
 
 
