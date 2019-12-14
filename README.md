@@ -326,6 +326,10 @@ https://github.com/FanJups/developer-roadmap
 
 https://github.com/micronaut-projects/micronaut-data
 
+# angular ng book
+
+https://www.ng-book.com/2/
+
 
 
 
