@@ -410,6 +410,10 @@ https://www.baeldung.com/spring-boot-security-autoconfiguration
 
 https://medium.com/better-programming/how-to-market-yourself-as-a-programmer-e145635ba534
 
+# how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else
+
+https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5
+
 
 
 
