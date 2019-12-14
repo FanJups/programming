@@ -386,6 +386,10 @@ https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-mes
 
 https://vladmihalcea.com/hibernate-database-schema-multitenancy/
 
+# java println vs loggers
+
+https://www.baeldung.com/java-system-out-println-vs-loggers
+
 
 
 
