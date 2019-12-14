@@ -248,5 +248,11 @@ https://www.mkyong.com/logging/log4j2-xml-example/
 
 https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html
 
+# how to add jar file in maven
+
+https://www.google.com/search?q=how+to+add+jar+file+in+maven&oq=how+to+jar+file+in+mave&aqs=chrome.2.69i57j0l3.26173j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8
+
+http://roufid.com/3-ways-to-add-local-jar-to-maven-project/
+
 
 
