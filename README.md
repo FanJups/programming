@@ -508,6 +508,10 @@ https://thoughts-on-java.org/result-set-mapping-complex-mappings/
 
 https://www.freecodecamp.org/news/the-real-difference-between-ci-and-cd/amp/
 
+# why-and-when-you-should-use-kubernetes
+
+https://dev.to/educative/why-and-when-you-should-use-kubernetes-2pil
+
 
 
 
