@@ -476,6 +476,10 @@ https://medium.com/@johanvos_42743/quantum-computing-for-java-developers-ecbbb39
 
 https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects/
 
+# primary-key-mappings-jpa-hibernate
+
+https://thoughts-on-java.org/primary-key-mappings-jpa-hibernate/
+
 
 
 
