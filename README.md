@@ -278,5 +278,11 @@ https://vladmihalcea.com/how-to-become-a-java-champion/
 
 https://towardsdatascience.com/decoding-basics-an-ultimate-guide-to-full-stack-developers-5f6ff6fc123a
 
+# Thread Sleep Alternative
+
+https://www.google.com/search?client=ms-android-transsion-tecno-rev1&sxsrf=ACYBGNSEM-0aTrEbPEVgIjl5eT4DXedGRA%3A1568565251293&ei=A2h-Xf_HEcGV1fAP-J24-AM&q=thread.sleep+java+alternative&oq=thread.sleep+java+alternative&gs_l=mobile-gws-wiz-serp.3..0i203j0i22i30l4.49831.55686..58461...0.1..0.588.3253.2-10j1j0j1......0....1.........0i71j0i22i10i30j33i160.huk2HDdlhhE
+
+
+
 
 
