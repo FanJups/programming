@@ -362,6 +362,10 @@ https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-
 
 https://www.freecodecamp.org/news/full-penetration-testing-course/
 
+# 10-of-the-most-popular-javascript-libraries-for-frontend-and-backend-development
+
+https://hackernoon.com/10-of-the-most-popular-javascript-libraries-for-frontend-and-backend-development-ph1h0326n
+
 
 
 
