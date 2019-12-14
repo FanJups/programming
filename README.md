@@ -434,6 +434,10 @@ https://www.java67.com/2017/06/can-you-make-class-static-in-java.html?utm_source
 
 https://www.pluralsight.com/courses/principles-oo-design?clickid=2AtymtTQmxyJRirwUx0Mo3EzUknzNrS3x0zV0k0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2
 
+# rest-api-error-handling-best-practices
+
+https://www.baeldung.com/rest-api-error-handling-best-practices
+
 
 
 
