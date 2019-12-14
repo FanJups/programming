@@ -378,6 +378,10 @@ https://www.baeldung.com/spring-boot-self-hosted-monitoring
 
 https://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-java-jee-programmers.html?m=1
 
+# Write Useful Commits
+
+https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9
+
 
 
 
