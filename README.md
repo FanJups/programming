@@ -318,6 +318,10 @@ https://phauer.com/2019/modern-best-practices-testing-java/
 
 https://www.zdnet.com/google-amp/article/microsoft-we-want-you-to-learn-python-programming-language-for-free/
 
+# developer road map
+
+https://github.com/FanJups/developer-roadmap
+
 
 
 
