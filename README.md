@@ -488,6 +488,10 @@ https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-an
 
 https://www.baeldung.com/javafx
 
+# java-logistic-regression
+
+https://www.baeldung.com/java-logistic-regression
+
 
 
 
