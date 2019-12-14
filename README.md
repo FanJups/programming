@@ -534,6 +534,10 @@ https://selftaught.blog/8-companies-that-hire-programmers-without-degrees/
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-turn-your-website-into-a-mobile-app-with-7-lines-of-json-631c9c9895f5/amp/
 
+# 9-projects-you-can-do-to-become-a-frontend-master-in-2020
+
+https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h
+
 
 
 
