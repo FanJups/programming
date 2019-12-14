@@ -290,6 +290,10 @@ https://medium.com/@davedodea/create-setup-and-deploy-your-own-cloud-web-server-
 
 https://hackernoon.com/why-do-we-need-the-json-web-token-jwt-in-the-modern-web-k29l3sfd
 
+# 10-things-java-developer-should-learn-in-2020
+
+https://hackernoon.com/10-things-java-developer-should-learn-in-2020-px9j309i
+
 
 
 
