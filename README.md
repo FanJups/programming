@@ -346,6 +346,10 @@ https://medium.com/sparkles-blog/angular-in-the-enterprise-building-angular-apps
 
 https://dzone.com/articles/building-a-web-app-using-spring-boot-angular-6-and
 
+# Twelve-Factor Methodology in a Spring Boot Microservice
+
+https://www.baeldung.com/spring-boot-12-factor
+
 
 
 
