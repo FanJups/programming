@@ -254,5 +254,9 @@ https://www.google.com/search?q=how+to+add+jar+file+in+maven&oq=how+to+jar+file+
 
 http://roufid.com/3-ways-to-add-local-jar-to-maven-project/
 
+# maven goals phases
+
+https://www.baeldung.com/maven-goals-phases
+
 
 
