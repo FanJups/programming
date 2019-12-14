@@ -414,6 +414,10 @@ https://medium.com/better-programming/how-to-market-yourself-as-a-programmer-e14
 
 https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5
 
+# how-to-create-installer-once-finished-with-java-desktop-application-with-mysql-d
+
+https://stackoverflow.com/questions/6150146/how-to-create-installer-once-finished-with-java-desktop-application-with-mysql-d
+
 
 
 
