@@ -492,6 +492,10 @@ https://www.baeldung.com/javafx
 
 https://www.baeldung.com/java-logistic-regression
 
+# add-login-to-your-spring-boot-app-in-10-mins
+
+https://dzone.com/articles/add-login-to-your-spring-boot-app-in-10-mins
+
 
 
 
