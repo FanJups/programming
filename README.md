@@ -504,6 +504,10 @@ https://www.java67.com/2019/01/10-examples-of-format-and-parse-dates-in-java.htm
 
 https://thoughts-on-java.org/result-set-mapping-complex-mappings/
 
+# the-real-difference-between-ci-and-cd
+
+https://www.freecodecamp.org/news/the-real-difference-between-ci-and-cd/amp/
+
 
 
 
