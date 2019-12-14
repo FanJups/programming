@@ -480,6 +480,10 @@ https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects
 
 https://thoughts-on-java.org/primary-key-mappings-jpa-hibernate/
 
+# the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate
+
+https://vladmihalcea.com/the-best-way-to-map-a-onetomany-association-with-jpa-and-hibernate/
+
 
 
 
