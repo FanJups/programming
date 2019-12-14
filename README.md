@@ -350,6 +350,10 @@ https://dzone.com/articles/building-a-web-app-using-spring-boot-angular-6-and
 
 https://www.baeldung.com/spring-boot-12-factor
 
+# Security with Spring
+
+https://www.baeldung.com/security-spring
+
 
 
 
