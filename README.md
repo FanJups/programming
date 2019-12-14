@@ -438,6 +438,10 @@ https://www.pluralsight.com/courses/principles-oo-design?clickid=2AtymtTQmxyJRir
 
 https://www.baeldung.com/rest-api-error-handling-best-practices
 
+# difference-between-restcontroller-and-controller-annotations-spring-mvc-rest
+
+https://javarevisited.blogspot.com/2017/08/difference-between-restcontroller-and-controller-annotations-spring-mvc-rest.html?m=1
+
 
 
 
