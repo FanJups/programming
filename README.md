@@ -302,6 +302,10 @@ https://www.vojtechruzicka.com/javafx-getting-started/
 
 https://www.baeldung.com/java-digital-signature
 
+# how-to-negotiate-your-compensation-as-a-programmer-every-year
+
+https://medium.com/better-programming/how-to-negotiate-your-compensation-as-a-programmer-every-year-2dcdebe61030
+
 
 
 
