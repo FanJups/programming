@@ -422,6 +422,10 @@ https://stackoverflow.com/questions/6150146/how-to-create-installer-once-finishe
 
 https://javarevisited.blogspot.com/2019/05/2-ways-to-join-string-in-java-8-examples-stringjoiner.html
 
+# arraylist-or-list-declaration-in-java
+
+https://stackoverflow.com/questions/12321177/arraylist-or-list-declaration-in-java
+
 
 
 
