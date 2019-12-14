@@ -454,6 +454,10 @@ https://stackoverflow.com/questions/1102891/how-to-check-if-a-string-is-numeric-
 
 https://thoughts-on-java.org/hibernate-tips-map-bidirectional-many-one-association/?utm_source=social&utm_medium=linkedin&utm_campaign=tip
 
+# top-10-programming-languages-to-learn-to-get-a-job-on-investment-banks-like-goldman-sachs-citi-and-morgan-stanley
+
+https://dev.to/javinpaul/top-10-programming-languages-to-learn-to-get-a-job-on-investment-banks-like-goldman-sachs-citi-and-morgan-stanley-2eb3
+
 
 
 
