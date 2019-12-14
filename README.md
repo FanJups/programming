@@ -472,6 +472,10 @@ https://towardsdatascience.com/want-a-data-science-job-use-the-weekend-project-p
 
 https://medium.com/@johanvos_42743/quantum-computing-for-java-developers-ecbbb39f2417
 
+# 6-open-source-data-science-projects
+
+https://www.analyticsvidhya.com/blog/2019/11/6-open-source-data-science-projects/
+
 
 
 
