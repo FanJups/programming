@@ -270,5 +270,11 @@ https://howtodoinjava.com/spring-boot2/testing/spring-integration-testing/?__twi
 
 https://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/
 
+# How to Become a Java Champion
+
+https://vladmihalcea.com/how-to-become-a-java-champion/
+
+
+
 
 
