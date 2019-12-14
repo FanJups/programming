@@ -286,6 +286,10 @@ https://www.google.com/search?client=ms-android-transsion-tecno-rev1&sxsrf=ACYBG
 
 https://medium.com/@davedodea/create-setup-and-deploy-your-own-cloud-web-server-60a2ce465d02
 
+# why-do-we-need-the-json-web-token-jwt-in-the-modern-web
+
+https://hackernoon.com/why-do-we-need-the-json-web-token-jwt-in-the-modern-web-k29l3sfd
+
 
 
 
