@@ -442,6 +442,11 @@ https://www.baeldung.com/rest-api-error-handling-best-practices
 
 https://javarevisited.blogspot.com/2017/08/difference-between-restcontroller-and-controller-annotations-spring-mvc-rest.html?m=1
 
+# 50-data-structure-and-algorithms-problems-from-coding-interviews
+
+https://dev.to/javinpaul/50-data-structure-and-algorithms-problems-from-coding-interviews-4lh2
+
+
 
 
 
