@@ -274,7 +274,9 @@ https://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-w
 
 https://vladmihalcea.com/how-to-become-a-java-champion/
 
+# ultimate-guide-to-full-stack-developers
 
+https://towardsdatascience.com/decoding-basics-an-ultimate-guide-to-full-stack-developers-5f6ff6fc123a
 
 
 
