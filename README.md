@@ -298,6 +298,12 @@ https://hackernoon.com/10-things-java-developer-should-learn-in-2020-px9j309i
 
 https://www.vojtechruzicka.com/javafx-getting-started/
 
+# java digital signature
+
+https://www.baeldung.com/java-digital-signature
+
+
+
 
 
 
