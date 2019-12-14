@@ -468,6 +468,10 @@ https://www.google.com/search?q=how+to+generate+hibernate+entities+from+database
 
 https://towardsdatascience.com/want-a-data-science-job-use-the-weekend-project-principle-to-get-it-a86ba2da514f
 
+# quantum-computing-for-java-developers
+
+https://medium.com/@johanvos_42743/quantum-computing-for-java-developers-ecbbb39f2417
+
 
 
 
