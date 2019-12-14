@@ -370,6 +370,10 @@ https://hackernoon.com/10-of-the-most-popular-javascript-libraries-for-frontend-
 
 https://javarevisited.blogspot.com/2018/01/top-20-libraries-and-apis-for-java-programmers.html
 
+# Self-Hosted Monitoring For Spring Boot Applications
+
+https://www.baeldung.com/spring-boot-self-hosted-monitoring
+
 
 
 
