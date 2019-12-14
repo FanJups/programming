@@ -382,6 +382,10 @@ https://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-ja
 
 https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9
 
+# hibernate-database-schema-multitenancy
+
+https://vladmihalcea.com/hibernate-database-schema-multitenancy/
+
 
 
 
