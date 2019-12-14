@@ -390,6 +390,10 @@ https://vladmihalcea.com/hibernate-database-schema-multitenancy/
 
 https://www.baeldung.com/java-system-out-println-vs-loggers
 
+# writing useful unit tests
+
+https://medium.com/better-programming/13-tips-for-writing-useful-unit-tests-ca20706b5368
+
 
 
 
