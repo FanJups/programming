@@ -338,6 +338,10 @@ https://www.techiediaries.com/angular-tutorial/
 
 https://leanpub.com/practical-angular
 
+# Building Angular apps through Maven
+
+https://medium.com/sparkles-blog/angular-in-the-enterprise-building-angular-apps-through-maven-3ca535152f85
+
 
 
 
