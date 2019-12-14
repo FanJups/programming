@@ -418,6 +418,10 @@ https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-da
 
 https://stackoverflow.com/questions/6150146/how-to-create-installer-once-finished-with-java-desktop-application-with-mysql-d
 
+# 2-ways-to-join-string-in-java-8-examples-stringjoiner
+
+https://javarevisited.blogspot.com/2019/05/2-ways-to-join-string-in-java-8-examples-stringjoiner.html
+
 
 
 
