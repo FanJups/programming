@@ -406,6 +406,10 @@ https://www.baeldung.com/java-ai
 
 https://www.baeldung.com/spring-boot-security-autoconfiguration
 
+# how-to-market-yourself-as-a-programmer
+
+https://medium.com/better-programming/how-to-market-yourself-as-a-programmer-e145635ba534
+
 
 
 
