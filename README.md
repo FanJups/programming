@@ -526,6 +526,10 @@ https://www.freecodecamp.org/news/css-example-css3/
 
 https://www.nocsdegree.com/from-zero-coding-to-a-job-at-google-in-six-months/
 
+# 8-companies-that-hire-programmers-without-degrees
+
+https://selftaught.blog/8-companies-that-hire-programmers-without-degrees/
+
 
 
 
