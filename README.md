@@ -310,6 +310,10 @@ https://medium.com/better-programming/how-to-negotiate-your-compensation-as-a-pr
 
 https://designsmarts.co/the-problem-with-dropdowns/
 
+# modern-best-practices-testing-java
+
+https://phauer.com/2019/modern-best-practices-testing-java/
+
 
 
 
