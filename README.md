@@ -464,6 +464,10 @@ https://o7planning.org/en/10125/using-hibernate-tools-generate-entity-classes-fr
 
 https://www.google.com/search?q=how+to+generate+hibernate+entities+from+database&oq=how+to+generate+hibernate+java+&aqs=chrome.3.69i57j0l3.58725j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8
 
+# want-a-data-science-job-use-the-weekend-project-principle-to-get-it
+
+https://towardsdatascience.com/want-a-data-science-job-use-the-weekend-project-principle-to-get-it-a86ba2da514f
+
 
 
 
