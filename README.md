@@ -398,6 +398,10 @@ https://medium.com/better-programming/13-tips-for-writing-useful-unit-tests-ca20
 
 https://medium.com/firebase-developers/how-to-become-a-google-developer-expert-gde-a-practical-guide-83621d2c8087
 
+# java ai
+
+https://www.baeldung.com/java-ai
+
 
 
 
