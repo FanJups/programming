@@ -268,7 +268,7 @@ https://howtodoinjava.com/spring-boot2/testing/spring-integration-testing/?__twi
 
 # Java 8 IntStreams 
 
-https://howtodoinjava.com/spring-boot2/testing/spring-integration-testing/?__twitter_impression=true
+https://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/
 
 
 
