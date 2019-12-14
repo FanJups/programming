@@ -258,5 +258,9 @@ http://roufid.com/3-ways-to-add-local-jar-to-maven-project/
 
 https://www.baeldung.com/maven-goals-phases
 
+# API Security Best Practices
+
+https://github.com/GitGuardian/APISecurityBestPractices/blob/master/Leak%20Mitigation%20Checklist.md
+
 
 
