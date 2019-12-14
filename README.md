@@ -354,6 +354,10 @@ https://www.baeldung.com/spring-boot-12-factor
 
 https://www.baeldung.com/security-spring
 
+# Design Patterns
+
+https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know
+
 
 
 
