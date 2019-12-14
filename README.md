@@ -294,6 +294,10 @@ https://hackernoon.com/why-do-we-need-the-json-web-token-jwt-in-the-modern-web-k
 
 https://hackernoon.com/10-things-java-developer-should-learn-in-2020-px9j309i
 
+# javafx-getting-started
+
+https://www.vojtechruzicka.com/javafx-getting-started/
+
 
 
 
