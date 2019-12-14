@@ -262,5 +262,9 @@ https://www.baeldung.com/maven-goals-phases
 
 https://github.com/GitGuardian/APISecurityBestPractices/blob/master/Leak%20Mitigation%20Checklist.md
 
+# Spring Integration Testing
+
+https://howtodoinjava.com/spring-boot2/testing/spring-integration-testing/?__twitter_impression=true
+
 
 
