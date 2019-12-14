@@ -358,6 +358,10 @@ https://www.baeldung.com/security-spring
 
 https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know
 
+# Penetration Testing
+
+https://www.freecodecamp.org/news/full-penetration-testing-course/
+
 
 
 
