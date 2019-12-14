@@ -366,6 +366,10 @@ https://www.freecodecamp.org/news/full-penetration-testing-course/
 
 https://hackernoon.com/10-of-the-most-popular-javascript-libraries-for-frontend-and-backend-development-ph1h0326n
 
+# top-20-libraries-and-apis-for-java-programmers
+
+https://javarevisited.blogspot.com/2018/01/top-20-libraries-and-apis-for-java-programmers.html
+
 
 
 
