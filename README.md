@@ -446,6 +446,10 @@ https://javarevisited.blogspot.com/2017/08/difference-between-restcontroller-and
 
 https://dev.to/javinpaul/50-data-structure-and-algorithms-problems-from-coding-interviews-4lh2
 
+# how-to-check-if-a-string-is-numeric-in-java
+
+https://stackoverflow.com/questions/1102891/how-to-check-if-a-string-is-numeric-in-java
+
 
 
 
