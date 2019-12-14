@@ -522,6 +522,10 @@ https://github.com/oktadeveloper/spring-boot-angular-example
 
 https://www.freecodecamp.org/news/css-example-css3/
 
+# from-zero-coding-to-a-job-at-google-in-six-months
+
+https://www.nocsdegree.com/from-zero-coding-to-a-job-at-google-in-six-months/
+
 
 
 
