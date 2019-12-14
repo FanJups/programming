@@ -244,5 +244,9 @@ https://howtodoinjava.com/log4j2/log4j-2-xml-configuration-example/
 
 https://www.mkyong.com/logging/log4j2-xml-example/
 
+# Things I learnt from a Senior Dev
+
+https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html
+
 
 
