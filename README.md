@@ -342,6 +342,10 @@ https://leanpub.com/practical-angular
 
 https://medium.com/sparkles-blog/angular-in-the-enterprise-building-angular-apps-through-maven-3ca535152f85
 
+# building-a-web-app-using-spring-boot-angular-6-and
+
+https://dzone.com/articles/building-a-web-app-using-spring-boot-angular-6-and
+
 
 
 
