@@ -450,6 +450,10 @@ https://dev.to/javinpaul/50-data-structure-and-algorithms-problems-from-coding-i
 
 https://stackoverflow.com/questions/1102891/how-to-check-if-a-string-is-numeric-in-java
 
+# hibernate-tips-map-bidirectional-many-one-association
+
+https://thoughts-on-java.org/hibernate-tips-map-bidirectional-many-one-association/?utm_source=social&utm_medium=linkedin&utm_campaign=tip
+
 
 
 
