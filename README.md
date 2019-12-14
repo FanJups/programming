@@ -374,6 +374,10 @@ https://javarevisited.blogspot.com/2018/01/top-20-libraries-and-apis-for-java-pr
 
 https://www.baeldung.com/spring-boot-self-hosted-monitoring
 
+# top-15-spring-boot-interview-questions-answers-java-jee-programmers
+
+https://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-java-jee-programmers.html?m=1
+
 
 
 
