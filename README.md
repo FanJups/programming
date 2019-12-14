@@ -330,6 +330,10 @@ https://github.com/micronaut-projects/micronaut-data
 
 https://www.ng-book.com/2/
 
+# angular tutorial
+
+https://www.techiediaries.com/angular-tutorial/
+
 
 
 
