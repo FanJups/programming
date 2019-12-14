@@ -266,5 +266,9 @@ https://github.com/GitGuardian/APISecurityBestPractices/blob/master/Leak%20Mitig
 
 https://howtodoinjava.com/spring-boot2/testing/spring-integration-testing/?__twitter_impression=true
 
+# Java 8 IntStreams 
+
+https://howtodoinjava.com/spring-boot2/testing/spring-integration-testing/?__twitter_impression=true
+
 
 
