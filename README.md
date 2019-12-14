@@ -512,6 +512,12 @@ https://www.freecodecamp.org/news/the-real-difference-between-ci-and-cd/amp/
 
 https://dev.to/educative/why-and-when-you-should-use-kubernetes-2pil
 
+# spring boot angular example github
+
+https://www.google.com/search?q=spring+boot+angular+example+github&oq=spring+boot+angular+exa&aqs=chrome.1.69i57j0l3.18823j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8
+
+https://github.com/oktadeveloper/spring-boot-angular-example
+
 
 
 
