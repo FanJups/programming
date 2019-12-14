@@ -498,7 +498,11 @@ https://dzone.com/articles/add-login-to-your-spring-boot-app-in-10-mins
 
 # 10-examples-of-format-and-parse-dates-in-java
 
-https://www.java67.com/2019/01/10-examples-of-format-and-parse-dates-in-java.html?m=1#.XdFbyC-YrOU.twitter
+https://www.java67.com/2019/01/10-examples-of-format-and-parse-dates-in-java.html
+
+# result-set-mapping-complex-mappings
+
+https://thoughts-on-java.org/result-set-mapping-complex-mappings/
 
 
 
