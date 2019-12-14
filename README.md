@@ -426,6 +426,10 @@ https://javarevisited.blogspot.com/2019/05/2-ways-to-join-string-in-java-8-examp
 
 https://stackoverflow.com/questions/12321177/arraylist-or-list-declaration-in-java
 
+# can-you-make-class-static-in-java
+
+https://www.java67.com/2017/06/can-you-make-class-static-in-java.html?utm_source=dlvr.it&utm_medium=facebook&m=1
+
 
 
 
