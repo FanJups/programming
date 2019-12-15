@@ -566,8 +566,10 @@ https://www.google.com/search?q=angular+8+github+travis+ci+docker&oq=angular+8+g
 
 https://medium.com/faun/configuring-travis-ci-for-angular-application-34afee1715f
 
+# Docker Kubernetes
 
 
+https://dzone.com/articles/what-is-the-difference-between-kubernetes-and-dock
 
 
 
