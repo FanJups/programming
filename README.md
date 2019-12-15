@@ -548,6 +548,14 @@ https://www.google.com/search?sxsrf=ACYBGNRy7iESSeI27m0RLSYSv3tIk22kzg%3A1576388
 
 https://dev.to/farhang/publish-your-angular-app-to-github-pages-using-travis-ci-1dg3
 
+# deploy angular 8 app on docker
+
+https://www.google.com/search?sxsrf=ACYBGNTfQcfsbmnSTYJ4j-7jOkAUk9A29g%3A1576389311707&ei=v8r1XaLpKtSAhbIPxaaQoAE&q=deploy+angular+8+app+on+docker&oq=deploy+angular+8+app+on+docker&gs_l=psy-ab.3...14987.15341..15867...0.4..0.270.494.2-2......0....1..gws-wiz.......0i71j35i39i19j0i7i30.Zn3Tyl9QKjg&ved=0ahUKEwjixM7n-7bmAhVUQEEAHUUTBBQQ4dUDCAs&uact=5
+
+https://mherman.org/blog/dockerizing-an-angular-app/
+
+
+
 
 
 
