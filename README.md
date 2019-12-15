@@ -538,6 +538,10 @@ https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/ho
 
 https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h
 
+# how to set up spring boot angular project on github with travis.yml and docker
+
+https://www.google.com/search?q=how+to+set+up+spring+boot+angular+project+on+github+with+travis.yml+and+docker&oq=how+to+set+up+spring+boot+angular+project+on+github+with+travis.yml+and+docker&aqs=chrome..69i57.42956j0j7&sourceid=chrome&ie=UTF-8
+
 
 
 
