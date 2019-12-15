@@ -542,6 +542,12 @@ https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in
 
 https://www.google.com/search?q=how+to+set+up+spring+boot+angular+project+on+github+with+travis.yml+and+docker&oq=how+to+set+up+spring+boot+angular+project+on+github+with+travis.yml+and+docker&aqs=chrome..69i57.42956j0j7&sourceid=chrome&ie=UTF-8
 
+# angular app on github with travis ci and docker
+
+https://www.google.com/search?sxsrf=ACYBGNRy7iESSeI27m0RLSYSv3tIk22kzg%3A1576388350189&ei=_sb1XcGYC5Oo8gLh3IbYBg&q=angular+app+on+github+with+travis+ci+and+docker&oq=angular+app+on+github+with+travis+ci+and+docker&gs_l=psy-ab.3..33i160.175254.195698..196041...0.0..0.557.13989.2-35j12j1j1......0....1..gws-wiz.......35i39j35i39i19j0i67j0j0i131j0i203j0i10i203j0i22i30j33i22i29i30j33i21.53VbThrf7ak&ved=0ahUKEwjBj5Cd-LbmAhUTlFwKHWGuAWsQ4dUDCAs&uact=5
+
+https://dev.to/farhang/publish-your-angular-app-to-github-pages-using-travis-ci-1dg3
+
 
 
 
