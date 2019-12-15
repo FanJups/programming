@@ -560,6 +560,12 @@ https://www.google.com/search?sxsrf=ACYBGNTfr9YLgsAmys43upN7GAvuf4hsTg%3A1576389
 
 https://medium.com/angular-in-depth/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078
 
+# angular 8 github travis ci docker
+
+https://www.google.com/search?q=angular+8+github+travis+ci+docker&oq=angular+8+github+travis+ci+docker&aqs=chrome..69i57j69i64.15013j0j7&sourceid=chrome&ie=UTF-8
+
+https://medium.com/faun/configuring-travis-ci-for-angular-application-34afee1715f
+
 
 
 
