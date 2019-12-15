@@ -572,5 +572,7 @@ https://medium.com/faun/configuring-travis-ci-for-angular-application-34afee1715
 https://dzone.com/articles/what-is-the-difference-between-kubernetes-and-dock
 
 
+# Url Design
 
+https://www.deepcrawl.com/blog/best-practice/guide-to-url-design/
 
