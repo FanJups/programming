@@ -576,3 +576,6 @@ https://dzone.com/articles/what-is-the-difference-between-kubernetes-and-dock
 
 https://www.deepcrawl.com/blog/best-practice/guide-to-url-design/
 
+# Hibernate Logging
+
+https://thoughts-on-java.org/hibernate-logging-guide/?utm_source=mail3&utm_medium=email&utm_campaign=beginner_evergreen
