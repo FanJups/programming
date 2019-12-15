@@ -554,6 +554,12 @@ https://www.google.com/search?sxsrf=ACYBGNTfQcfsbmnSTYJ4j-7jOkAUk9A29g%3A1576389
 
 https://mherman.org/blog/dockerizing-an-angular-app/
 
+# CI/CD angular 8 app on github with travis CI AND  docker
+
+https://www.google.com/search?sxsrf=ACYBGNTfr9YLgsAmys43upN7GAvuf4hsTg%3A1576389329941&ei=0cr1XeH9OIyBhbIPxYG6mA8&q=CI%2FCD+angular+8+app+on+github+with+travis+CI+AND++docker&oq=CI%2FCD+angular+8+app+on+github+with+travis+CI+AND++docker&gs_l=psy-ab.3...198402.217218..217948...0.8..0.676.13355.2-18j6j8j6......0....1..gws-wiz.......0i71.D_Q4L6MmWZA&ved=0ahUKEwihqqfw-7bmAhWMQEEAHcWADvMQ4dUDCAs&uact=5
+
+https://medium.com/angular-in-depth/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078
+
 
 
 
