@@ -593,6 +593,8 @@ https://spring.io/guides/gs/securing-web/
 
 https://dzone.com/articles/secure-your-spring-boot-web-app-with-spring-securi
 
+https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-security-example/
+
 ## spring boot security multiple roles
 
 https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/
