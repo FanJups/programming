@@ -619,4 +619,6 @@ https://www.codejava.net/frameworks/spring-boot/spring-boot-spring-data-jpa-mysq
 
 https://www.javainuse.com/spring/SpringBoot_DataJPA
 
+http://zetcode.com/springboot/datajpaquerybyexample/
+
 
