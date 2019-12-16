@@ -659,3 +659,5 @@ https://www.baeldung.com/spring-boot-angular-web
 
 https://www.websparrow.org/spring/spring-boot-angular-8-crud-example
 
+https://www.djamware.com/post/5d3332980707cc65eac46c7b/spring-boot-security-mongodb-angular-8-build-authentication
+
