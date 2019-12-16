@@ -621,4 +621,6 @@ https://www.javainuse.com/spring/SpringBoot_DataJPA
 
 http://zetcode.com/springboot/datajpaquerybyexample/
 
+https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/
+
 
