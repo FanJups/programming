@@ -668,5 +668,9 @@ https://www.udemy.com/course/full-stack-development-with-angular-8-and-spring-bo
 
 https://dzone.com/articles/java-8-springboot-angularjs-bootstrap-springdata-j
 
+# cryptography project java example
+
+https://www.google.com/search?biw=1366&bih=625&sxsrf=ACYBGNR3oorTZnOa3ckII9IoJBO3-iGxZg%3A1576478622641&ei=nif3XZPfJr2PhbIPu7mlyAU&q=cryptography+project+java+example&oq=cryptography+project+java+example&gs_l=psy-ab.3..33i22i29i30l2.126472.139844..140146...1.2..0.363.8816.2-29j5......0....1..gws-wiz.......0i71j35i39j0i131j0j0i67j0i203j0i10i203j0i22i30.AIqQPUMtx5I&ved=0ahUKEwiTprHCyLnmAhW9R0EAHbtcCVkQ4dUDCAs&uact=5
+
 https://www.roytuts.com/spring-boot-websocket-angularjs-gradle-example/
 
