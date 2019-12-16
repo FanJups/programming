@@ -623,4 +623,6 @@ http://zetcode.com/springboot/datajpaquerybyexample/
 
 https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/
 
+https://www.springboottutorial.com/spring-boot-projects-with-code-examples
+
 
