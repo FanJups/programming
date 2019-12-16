@@ -635,4 +635,6 @@ https://github.com/Ismaestro/angular8-example-app
 
 https://www.devglan.com/angular/angular-8-crud-example
 
+https://jsonworld.com/demo/angular-sample-projects
+
 
