@@ -586,3 +586,7 @@ https://thoughts-on-java.org/hibernate-logging-guide/?utm_source=mail3&utm_mediu
 https://www.google.com/search?sxsrf=ACYBGNTy-DBhhMWmaWtYWwxpwI11vUtixw%3A1576476135704&ei=5x33Xe3TKpWx8gKcsJKwCg&q=spring+boot+security+project+example&oq=spring+boot+security+project+example&gs_l=psy-ab.3..0i203.5498.6847..7178...0.2..0.289.1288.2-5......0....1..gws-wiz.......0i71j35i39i19j0i7i30j0i8i30.q_xxUEn35dc&ved=0ahUKEwit48Kgv7nmAhWVmFwKHRyYBKYQ4dUDCAs&uact=5
 
 https://www.javainuse.com/spring/boot-jwt
+
+https://www.javainuse.com/spring/ang7-hello
+
+
