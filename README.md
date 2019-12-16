@@ -591,4 +591,8 @@ https://www.javainuse.com/spring/ang7-hello
 
 https://spring.io/guides/gs/securing-web/
 
+## spring boot security multiple roles
+
+https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/
+
 
