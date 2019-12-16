@@ -613,4 +613,6 @@ https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernat
 
 https://www.roytuts.com/spring-boot-data-jpa-crud-example/
 
+https://www.javacodegeeks.com/2018/03/spring-data-jpa-example-with-spring-boot.html
+
 
