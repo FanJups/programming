@@ -625,4 +625,8 @@ https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/
 
 https://www.springboottutorial.com/spring-boot-projects-with-code-examples
 
+# Angular 8  project example
+
+https://www.google.com/search?sxsrf=ACYBGNTIhHNx1JRTCyb6me74_z4vJEIkXg%3A1576477266868&ei=UiL3XeTHNJGW8gLi4biYDA&q=Angular+8++project+example&oq=Angular+8++project+example&gs_l=psy-ab.3..0i7i30l4j0i20i263j0i7i30l5.234018.237075..237323...0.2..0.266.1966.2-8......0....1..gws-wiz.......0i71j0i7i30i19.WYm9MM30FAM&ved=0ahUKEwjkuPO7w7nmAhURi1wKHeIwDsMQ4dUDCAs&uact=5
+
 
