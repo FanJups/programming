@@ -680,3 +680,5 @@ https://www.mkyong.com/java/java-hybrid-cryptography-example/
 
 https://www.codejava.net/coding/file-encryption-and-decryption-simple-example
 
+https://www.veracode.com/blog/research/encryption-and-decryption-java-cryptography
+
