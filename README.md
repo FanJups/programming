@@ -605,4 +605,6 @@ https://www.google.com/search?sxsrf=ACYBGNTeG7dzT3Daft1y4wx4kVEm-88ykw%3A1576476
 
 https://o7planning.org/fr/11897/tutoriel-spring-boot-et-spring-data-jpa
 
+https://www.mkyong.com/spring-boot/spring-boot-spring-data-jpa/
+
 
