@@ -676,3 +676,5 @@ https://www.roytuts.com/spring-boot-websocket-angularjs-gradle-example/
 
 http://tutorials.jenkov.com/java-cryptography/index.html
 
+https://www.mkyong.com/java/java-hybrid-cryptography-example/
+
