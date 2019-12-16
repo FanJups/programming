@@ -666,3 +666,5 @@ https://liferay.dev/blogs/-/blogs/cool-portlet-development-with-spring-boot-2-an
 
 https://www.udemy.com/course/full-stack-development-with-angular-8-and-spring-boot/
 
+https://dzone.com/articles/java-8-springboot-angularjs-bootstrap-springdata-j
+
