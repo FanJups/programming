@@ -34,6 +34,7 @@ https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-and-a
 
 http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
 
+https://www.eduonix.com/full-stack-development-with-angular-8-and-spring-boot
 https://java2blog.com/spring-boot-angularjs-example/
 
 https://developer.okta.com/blog/2017/12/04/basic-crud-angular-and-spring-boot
