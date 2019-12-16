@@ -633,4 +633,6 @@ https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/
 
 https://github.com/Ismaestro/angular8-example-app
 
+https://www.devglan.com/angular/angular-8-crud-example
+
 
