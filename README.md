@@ -674,3 +674,5 @@ https://www.google.com/search?biw=1366&bih=625&sxsrf=ACYBGNR3oorTZnOa3ckII9IoJBO
 
 https://www.roytuts.com/spring-boot-websocket-angularjs-gradle-example/
 
+http://tutorials.jenkov.com/java-cryptography/index.html
+
