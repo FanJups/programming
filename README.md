@@ -678,3 +678,5 @@ http://tutorials.jenkov.com/java-cryptography/index.html
 
 https://www.mkyong.com/java/java-hybrid-cryptography-example/
 
+https://www.codejava.net/coding/file-encryption-and-decryption-simple-example
+
