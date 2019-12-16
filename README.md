@@ -663,3 +663,5 @@ https://www.djamware.com/post/5d3332980707cc65eac46c7b/spring-boot-security-mong
 
 https://liferay.dev/blogs/-/blogs/cool-portlet-development-with-spring-boot-2-and-angular-8-on-liferay-7-2
 
+https://www.udemy.com/course/full-stack-development-with-angular-8-and-spring-boot/
+
