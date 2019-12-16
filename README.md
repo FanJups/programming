@@ -617,4 +617,6 @@ https://www.javacodegeeks.com/2018/03/spring-data-jpa-example-with-spring-boot.h
 
 https://www.codejava.net/frameworks/spring-boot/spring-boot-spring-data-jpa-mysql-example
 
+https://www.javainuse.com/spring/SpringBoot_DataJPA
+
 
