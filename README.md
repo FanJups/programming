@@ -647,3 +647,5 @@ https://www.google.com/search?sxsrf=ACYBGNQavZ39a5tndDV_GeFoc2-WR0oarw%3A1576477
 
 https://medium.com/@mehulkothari05/spring-boot-angular-8-crud-example-8aeafd47b54
 
+https://www.devglan.com/spring-boot/spring-boot-angular-8-example
+
