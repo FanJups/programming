@@ -668,3 +668,5 @@ https://www.udemy.com/course/full-stack-development-with-angular-8-and-spring-bo
 
 https://dzone.com/articles/java-8-springboot-angularjs-bootstrap-springdata-j
 
+https://www.roytuts.com/spring-boot-websocket-angularjs-gradle-example/
+
