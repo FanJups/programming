@@ -653,3 +653,5 @@ https://www.javaguides.net/2019/06/angular-8-spring-boot-2-example-tutorial.html
 
 https://www.javaguides.net/2019/06/spring-boot-angular-7-crud-example-tutorial.html
 
+https://developer.okta.com/blog/2019/05/13/angular-8-spring-boot-2
+
