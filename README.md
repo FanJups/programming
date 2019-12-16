@@ -609,4 +609,6 @@ https://www.mkyong.com/spring-boot/spring-boot-spring-data-jpa/
 
 https://dzone.com/articles/spring-boot-with-spring-data-jpa
 
+https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+
 
