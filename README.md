@@ -589,4 +589,6 @@ https://www.javainuse.com/spring/boot-jwt
 
 https://www.javainuse.com/spring/ang7-hello
 
+https://spring.io/guides/gs/securing-web/
+
 
