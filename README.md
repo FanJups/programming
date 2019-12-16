@@ -661,3 +661,5 @@ https://www.websparrow.org/spring/spring-boot-angular-8-crud-example
 
 https://www.djamware.com/post/5d3332980707cc65eac46c7b/spring-boot-security-mongodb-angular-8-build-authentication
 
+https://liferay.dev/blogs/-/blogs/cool-portlet-development-with-spring-boot-2-and-angular-8-on-liferay-7-2
+
