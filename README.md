@@ -657,3 +657,5 @@ https://developer.okta.com/blog/2019/05/13/angular-8-spring-boot-2
 
 https://www.baeldung.com/spring-boot-angular-web
 
+https://www.websparrow.org/spring/spring-boot-angular-8-crud-example
+
