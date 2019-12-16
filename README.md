@@ -631,4 +631,6 @@ https://www.google.com/search?sxsrf=ACYBGNTIhHNx1JRTCyb6me74_z4vJEIkXg%3A1576477
 
 https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/
 
+https://github.com/Ismaestro/angular8-example-app
+
 
