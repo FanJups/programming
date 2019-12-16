@@ -615,4 +615,6 @@ https://www.roytuts.com/spring-boot-data-jpa-crud-example/
 
 https://www.javacodegeeks.com/2018/03/spring-data-jpa-example-with-spring-boot.html
 
+https://www.codejava.net/frameworks/spring-boot/spring-boot-spring-data-jpa-mysql-example
+
 
