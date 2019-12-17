@@ -600,6 +600,8 @@ https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-secur
 
 https://www.mkyong.com/spring-boot/spring-rest-spring-security-example/
 
+https://www.javaguides.net/2018/09/spring-boot-spring-mvc-role-based-spring-security-jpa-thymeleaf-mysql-tutorial.html?spref=fb&m=1
+
 # spring boot data jpa project example
 
 https://www.google.com/search?sxsrf=ACYBGNTeG7dzT3Daft1y4wx4kVEm-88ykw%3A1576476147461&ei=8x33XfDZG9Sx8gKK1o2oCA&q=spring+boot+data+jpa+project+example&oq=spring+boot+data+jpa+project+example&gs_l=psy-ab.3..33i22i29i30l7.7827.726990..727302...1.7..0.442.6306.2-22j1j1......0....2j1..gws-wiz.....10..0i71j35i362i39j35i39j0j0i203j0i10i203j0i22i30j0i8i13i30.3OuYtiaPzVk&ved=0ahUKEwiwn5Cmv7nmAhXUmFwKHQprA4UQ4dUDCAs&uact=5
