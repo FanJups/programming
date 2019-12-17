@@ -567,6 +567,15 @@ https://www.google.com/search?q=angular+8+github+travis+ci+docker&oq=angular+8+g
 
 https://medium.com/faun/configuring-travis-ci-for-angular-application-34afee1715f
 
+# deploying angular app on heroku
+
+https://www.google.com/search?q=deploying+angular+app+on+heroku&oq=deploying+angular+app+on+heroku&aqs=chrome..69i57j0l3.18184j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8#sbfbu=1&pi=deploying%20angular%20app%20on%20heroku
+
+
+https://itnext.io/how-to-deploy-angular-application-to-heroku-1d56e09c5147
+
+
+
 # Docker Kubernetes
 
 
