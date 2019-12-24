@@ -693,3 +693,7 @@ https://www.codejava.net/coding/file-encryption-and-decryption-simple-example
 
 https://www.veracode.com/blog/research/encryption-and-decryption-java-cryptography
 
+# 5 books to crack java 8 certification
+
+https://dev.to/javinpaul/5-books-to-crack-java-8-certification-ocajp-8-and-ocpjp-8-best-of-lot-369m
+
