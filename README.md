@@ -697,3 +697,6 @@ https://www.veracode.com/blog/research/encryption-and-decryption-java-cryptograp
 
 https://dev.to/javinpaul/5-books-to-crack-java-8-certification-ocajp-8-and-ocpjp-8-best-of-lot-369m
 
+# API
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/amp/
