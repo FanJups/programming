@@ -700,3 +700,7 @@ https://dev.to/javinpaul/5-books-to-crack-java-8-certification-ocajp-8-and-ocpjp
 # API
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/amp/
+
+# what-is-the-difference-between-kubernetes-and-docker
+
+https://dzone.com/articles/what-is-the-difference-between-kubernetes-and-dock
