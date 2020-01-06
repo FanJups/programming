@@ -712,3 +712,7 @@ https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/th
 # teach-yourself-ddd-in-5-minutes
 
 https://dzone.com/articles/teach-yourself-ddd-in-5-minutes
+
+# writing-good-commit-messages-a-practical-guide
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/amp/
