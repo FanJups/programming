@@ -728,3 +728,7 @@ https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/th
 # the-10-most-popular-coding-challenge-websites-of-2016
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/amp/
+
+# java-itext pdf
+
+http://tutorials.jenkov.com/java-itext/index.html
