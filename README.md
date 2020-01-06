@@ -732,3 +732,7 @@ https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/th
 # java-itext pdf
 
 http://tutorials.jenkov.com/java-itext/index.html
+
+# how-to-make-your-html-responsive-by-adding-a-single-line-of-css
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431/amp/
