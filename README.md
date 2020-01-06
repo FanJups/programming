@@ -724,3 +724,7 @@ https://techgrabyte.com/aws-sagemaker-studio-machine-learning/
 # Create a programming language
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-programming-language-pipeline-91d3f449c919/amp/
+
+# the-10-most-popular-coding-challenge-websites-of-2016
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/amp/
