@@ -704,3 +704,7 @@ https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/wh
 # what-is-the-difference-between-kubernetes-and-docker
 
 https://dzone.com/articles/what-is-the-difference-between-kubernetes-and-dock
+
+# the-junior-developers-guide-to-writing-super-clean-and-readable-code
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-junior-developers-guide-to-writing-super-clean-and-readable-code-cd2568e08aae/amp/
