@@ -737,6 +737,4 @@ http://tutorials.jenkov.com/java-itext/index.html
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431/amp/
 
-# the-junior-developers-guide-to-writing-super-clean-and-readable-code
 
-https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/the-junior-developers-guide-to-writing-super-clean-and-readable-code-cd2568e08aae/amp/
