@@ -737,4 +737,10 @@ http://tutorials.jenkov.com/java-itext/index.html
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431/amp/
 
+# HOW TO make STS to not validate all projects in the workspace
+
+https://www.google.com/search?q=HOW+TO+make+STS+to+not+validate+all+projects+in+the+workspace&oq=HOW+TO+make+STS+to+not+validate+all+projects+in+the+workspace&aqs=chrome..69i57.37945j0j7&sourceid=chrome&ie=UTF-8
+
+https://help.eclipse.org/2019-12/index.jsp?topic=%2Forg.eclipse.jst.j2ee.doc.user%2Ftopics%2Ftjvaldisable.html
+
 
