@@ -747,4 +747,8 @@ https://help.eclipse.org/2019-12/index.jsp?topic=%2Forg.eclipse.jst.j2ee.doc.use
 
 https://www.dev2qa.com/how-to-solve-eclipse-building-workspace-too-slow-problem/
 
+# turning-off-eclipse-validation
+
+https://stackoverflow.com/questions/15899976/turning-off-eclipse-validation
+
 
