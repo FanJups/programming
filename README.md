@@ -743,4 +743,8 @@ https://www.google.com/search?q=HOW+TO+make+STS+to+not+validate+all+projects+in+
 
 https://help.eclipse.org/2019-12/index.jsp?topic=%2Forg.eclipse.jst.j2ee.doc.user%2Ftopics%2Ftjvaldisable.html
 
+# how-to-solve-eclipse-building-workspace-too-slow-problem
+
+https://www.dev2qa.com/how-to-solve-eclipse-building-workspace-too-slow-problem/
+
 
