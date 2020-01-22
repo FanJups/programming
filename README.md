@@ -751,4 +751,9 @@ https://www.dev2qa.com/how-to-solve-eclipse-building-workspace-too-slow-problem/
 
 https://stackoverflow.com/questions/15899976/turning-off-eclipse-validation
 
+# spring datasource hibernate applicatio.propertiess
+
+https://www.google.com/search?q=spring+datasource+hibernate+applicatio.propertiess&oq=spring+datasource+hibernate+applicatio.propertiess&aqs=chrome..69i57j33.57432j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/netgloo/spring-boot-samples/blob/master/spring-boot-mysql-springdatajpa-hibernate/src/main/resources/application.properties
 
