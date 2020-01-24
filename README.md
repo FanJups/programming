@@ -767,3 +767,9 @@ https://www.baeldung.com/spring-response-entity
 
 https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/http/ResponseEntity.html
 
+# When use ResponseEntity and @RestController for Spring RESTful applications
+
+https://stackoverflow.com/questions/26549379/when-use-responseentityt-and-restcontroller-for-spring-restful-applications
+
+
+
