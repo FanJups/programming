@@ -777,5 +777,13 @@ https://www.google.com/search?q=Expected+%27%2C%27+instead+of+%27%27&oq=Expected
 
 https://stackoverflow.com/questions/37848789/spring-expected-instead-of-t-error-when-returning-list
 
+# @jsonmanagedreference and @jsonbackreference example
+
+https://www.google.com/search?q=%40jsonmanagedreference+and+%40jsonbackreference+example&oq=%40JsonManagedReference&aqs=chrome.2.69i57j0l7.46696j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.logicbig.com/tutorials/misc/jackson/json-managed-reference.html
+
+
+
 
 
