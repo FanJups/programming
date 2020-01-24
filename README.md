@@ -793,6 +793,10 @@ https://www.google.com/search?q=%40JsonIgnoreProperties&oq=%40JsonIgnoreProperti
 
 https://fasterxml.github.io/jackson-annotations/javadoc/2.6/com/fasterxml/jackson/annotation/JsonIgnoreProperties.html
 
+# Sign up with google spring boot
+
+https://www.google.com/search?q=Sign+up+with+google+spring+boot&oq=Sign+up+with+google+spring+boot&aqs=chrome..69i57.7533j0j7&sourceid=chrome&ie=UTF-8
+
 
 
 
