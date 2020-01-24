@@ -787,6 +787,12 @@ https://www.logicbig.com/tutorials/misc/jackson/json-managed-reference.html
 
 https://stackoverflow.com/questions/31319358/jsonmanagedreference-vs-jsonbackreference
 
+# @JsonIgnoreProperties
+
+https://www.google.com/search?q=%40JsonIgnoreProperties&oq=%40JsonIgnoreProperties&aqs=chrome..69i57j0l7.1127j0j7&sourceid=chrome&ie=UTF-8
+
+https://fasterxml.github.io/jackson-annotations/javadoc/2.6/com/fasterxml/jackson/annotation/JsonIgnoreProperties.html
+
 
 
 
