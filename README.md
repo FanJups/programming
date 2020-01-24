@@ -771,5 +771,11 @@ https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/http/
 
 https://stackoverflow.com/questions/26549379/when-use-responseentityt-and-restcontroller-for-spring-restful-applications
 
+# Expected ',' instead of ''
+
+https://www.google.com/search?q=Expected+%27%2C%27+instead+of+%27%27&oq=Expected+%27%2C%27+instead+of+%27%27&aqs=chrome..69i57.3992j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/37848789/spring-expected-instead-of-t-error-when-returning-list
+
 
 
