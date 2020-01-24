@@ -783,6 +783,10 @@ https://www.google.com/search?q=%40jsonmanagedreference+and+%40jsonbackreference
 
 https://www.logicbig.com/tutorials/misc/jackson/json-managed-reference.html
 
+# jsonmanagedreference-vs-jsonbackreference
+
+https://stackoverflow.com/questions/31319358/jsonmanagedreference-vs-jsonbackreference
+
 
 
 
