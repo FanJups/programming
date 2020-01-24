@@ -757,3 +757,9 @@ https://www.google.com/search?q=spring+datasource+hibernate+applicatio.propertie
 
 https://github.com/netgloo/spring-boot-samples/blob/master/spring-boot-mysql-springdatajpa-hibernate/src/main/resources/application.properties
 
+# ResponseEntity spring boot
+
+https://www.google.com/search?q=ResponseEntity+spring+boot&oq=ResponseEntity++spring+boot&aqs=chrome..69i57j0l7.16862j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-response-entity
+
