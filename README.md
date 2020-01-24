@@ -763,3 +763,7 @@ https://www.google.com/search?q=ResponseEntity+spring+boot&oq=ResponseEntity++sp
 
 https://www.baeldung.com/spring-response-entity
 
+# /spring/docs/current/javadoc-api/org/springframework/http/ResponseEntity
+
+https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/http/ResponseEntity.html
+
