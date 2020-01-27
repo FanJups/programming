@@ -803,6 +803,12 @@ https://www.google.com/search?q=the+complete+spring+boot+security+registration&o
 
 https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/
 
+# @transient java
+
+https://www.google.com/search?q=%40transient+java&oq=%40Transient&aqs=chrome.1.69i57j0l7.5136j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.geeksforgeeks.org/transient-keyword-java/
+
 
 
 
