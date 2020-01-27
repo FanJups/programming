@@ -809,6 +809,14 @@ https://www.google.com/search?q=%40transient+java&oq=%40Transient&aqs=chrome.1.6
 
 https://www.geeksforgeeks.org/transient-keyword-java/
 
+# UsernamePasswordAuthenticationToken
+
+https://www.google.com/search?q=UsernamePasswordAuthenticationToken&oq=UsernamePasswordAuthenticationToken&aqs=chrome..69i57j69i60l2.11377j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.programcreek.com/java-api-examples/index.php?api=org.springframework.security.authentication.UsernamePasswordAuthenticationToken
+
+https://www.baeldung.com/manually-set-user-authentication-spring-security
+
 
 
 
