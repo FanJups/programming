@@ -797,6 +797,12 @@ https://fasterxml.github.io/jackson-annotations/javadoc/2.6/com/fasterxml/jackso
 
 https://www.google.com/search?q=Sign+up+with+google+spring+boot&oq=Sign+up+with+google+spring+boot&aqs=chrome..69i57.7533j0j7&sourceid=chrome&ie=UTF-8
 
+# the complete spring boot security registration (SPECIAL)
+
+https://www.google.com/search?q=the+complete+spring+boot+security+registration&oq=the+complete+spring+boot+security+registration&aqs=chrome..69i57.25275j0j7&sourceid=chrome&ie=UTF-8
+
+https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/
+
 
 
 
