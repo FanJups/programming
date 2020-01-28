@@ -817,6 +817,8 @@ https://www.programcreek.com/java-api-examples/index.php?api=org.springframework
 
 https://www.baeldung.com/manually-set-user-authentication-spring-security
 
+# application properties or yml, which one is better ?
+
 
 
 
