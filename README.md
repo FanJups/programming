@@ -819,6 +819,10 @@ https://www.baeldung.com/manually-set-user-authentication-spring-security
 
 # application properties or yml, which one is better ?
 
+https://www.google.com/search?sxsrf=ACYBGNSY5lWnNekgaq4SMXz9IdQb5WFqrw%3A1580206201672&ei=eQgwXovUKKiH1fAP7buHmAc&q=application+properties+or+yml%2C+which+one+is+better+%3F&oq=application+properties+or+yml%2C+which+one+is+better+%3F&gs_l=psy-ab.3...96215.106173..106955...1.2..1.776.10521.3-11j2j8j2......0....1..gws-wiz.......0i71j0i22i30j0i22i10i30j33i22i29i30j33i160j33i21.v-_WB4mlF5U&ved=0ahUKEwjL9MnqhqbnAhWoQxUIHe3dAXMQ4dUDCAs&uact=5
+
+https://itnext.io/why-should-we-prefer-the-yaml-file-over-the-properties-file-for-configurations-in-spring-boot-f31a273a923b
+
 
 
 
