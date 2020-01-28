@@ -837,6 +837,10 @@ https://mkyong.com/spring-boot/spring-boot-yaml-example/
 
 http://zetcode.com/springboot/datasourcebuilder/
 
+# hibernate properties
+
+https://docs.jboss.org/hibernate/core/4.3/devguide/en-US/html_single/#d5e4971
+
 
 
 
