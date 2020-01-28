@@ -827,6 +827,16 @@ https://itnext.io/why-should-we-prefer-the-yaml-file-over-the-properties-file-fo
 
 https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html
 
+# spring boot yaml 
+
+https://stackoverflow.com/questions/33323837/database-application-yml-for-spring-boot-from-applications-properties
+
+https://www.tutorialspoint.com/spring_boot/spring_boot_database_handling.htm
+
+https://mkyong.com/spring-boot/spring-boot-yaml-example/
+
+
+
 
 
 
