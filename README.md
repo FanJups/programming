@@ -823,6 +823,10 @@ https://www.google.com/search?sxsrf=ACYBGNSY5lWnNekgaq4SMXz9IdQb5WFqrw%3A1580206
 
 https://itnext.io/why-should-we-prefer-the-yaml-file-over-the-properties-file-for-configurations-in-spring-boot-f31a273a923b
 
+# spring-boot/docs/current/reference/html/appendix-application-properties.html
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html
+
 
 
 
