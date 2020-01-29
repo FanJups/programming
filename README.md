@@ -851,6 +851,10 @@ https://www.baeldung.com/spring-rest-http-headers
 
 https://stackoverflow.com/questions/19556039/how-to-get-access-to-http-header-information-in-spring-mvc-rest-controller
 
+# reading-http-headers-in-a-spring-rest-controller/28209710#28209710
+
+https://stackoverflow.com/questions/28209242/reading-http-headers-in-a-spring-rest-controller/28209710#28209710
+
 
 
 
