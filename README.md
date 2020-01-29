@@ -841,6 +841,12 @@ http://zetcode.com/springboot/datasourcebuilder/
 
 https://docs.jboss.org/hibernate/core/4.3/devguide/en-US/html_single/#d5e4971
 
+# how to get http request in spring @restcontroller
+
+https://www.google.com/search?q=how+to+get+http+request+in+spring+%40restcontroller&oq=how+to+get+the+http+request+of+a+RestController+S&aqs=chrome.1.69i57j0.33783j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-rest-http-headers
+
 
 
 
