@@ -847,6 +847,10 @@ https://www.google.com/search?q=how+to+get+http+request+in+spring+%40restcontrol
 
 https://www.baeldung.com/spring-rest-http-headers
 
+# how-to-get-access-to-http-header-information-in-spring-mvc-rest-controller
+
+https://stackoverflow.com/questions/19556039/how-to-get-access-to-http-header-information-in-spring-mvc-rest-controller
+
 
 
 
