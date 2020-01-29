@@ -855,6 +855,12 @@ https://stackoverflow.com/questions/19556039/how-to-get-access-to-http-header-in
 
 https://stackoverflow.com/questions/28209242/reading-http-headers-in-a-spring-rest-controller/28209710#28209710
 
+# spring mail 
+
+https://www.google.com/search?q=spring+boot+mail+dependency&oq=sp&aqs=chrome.0.69i59l3j69i57j0j69i60l3.4867j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-email
+
 
 
 
