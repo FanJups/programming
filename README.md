@@ -877,6 +877,14 @@ https://stackoverflow.com/questions/41351540/configure-smtp-host-using-yaml-file
 
 https://www.technicalkeeda.com/spring-boot-tutorials/how-to-send-email-using-spring-boot
 
+# SSL peer shut down incorrectly
+
+https://www.google.com/search?q=SSL+peer+shut+down+incorrectly&oq=SSL+peer+shut+down+incorrectly&aqs=chrome..69i57j0l7.6152j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/28908835/ssl-peer-shut-down-incorrectly-in-java
+
+
+
 
 
 
