@@ -867,6 +867,12 @@ https://www.google.com/search?q=SEND+email+spring+boot+gmail+application.yml&oq=
 
 https://mkyong.com/spring-boot/spring-boot-how-to-send-email-via-smtp/
 
+# send email from spring boot using application.yml
+
+https://www.google.com/search?q=send+email+from+spring+boot+using+application.yml&oq=send+email+from+spring+boot+using+application.yml&aqs=chrome..69i57.32985j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/41351540/configure-smtp-host-using-yaml-file-in-spring-boot
+
 
 
 
