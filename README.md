@@ -861,6 +861,12 @@ https://www.google.com/search?q=spring+boot+mail+dependency&oq=sp&aqs=chrome.0.6
 
 https://www.baeldung.com/spring-email
 
+# SEND email spring boot gmail application.yml
+
+https://www.google.com/search?q=SEND+email+spring+boot+gmail+application.yml&oq=SEND+email+spring+boot+gmail+application.yml&aqs=chrome..69i57.32742j0j7&sourceid=chrome&ie=UTF-8
+
+https://mkyong.com/spring-boot/spring-boot-how-to-send-email-via-smtp/
+
 
 
 
