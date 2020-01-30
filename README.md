@@ -873,6 +873,10 @@ https://www.google.com/search?q=send+email+from+spring+boot+using+application.ym
 
 https://stackoverflow.com/questions/41351540/configure-smtp-host-using-yaml-file-in-spring-boot
 
+(SPECIAL)
+
+https://www.technicalkeeda.com/spring-boot-tutorials/how-to-send-email-using-spring-boot
+
 
 
 
