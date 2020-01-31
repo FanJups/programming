@@ -886,6 +886,15 @@ https://www.google.com/search?q=SSL+peer+shut+down+incorrectly&oq=SSL+peer+shut+
 https://stackoverflow.com/questions/28908835/ssl-peer-shut-down-incorrectly-in-java
 
 
+# @Column
+
+https://www.google.com/search?q=%40Column&oq=%40Column&aqs=chrome..69i57j69i59j35i39j0l5.27197j0j7&sourceid=chrome&ie=UTF-8
+
+http://blog.paumard.org/cours/jpa/chap03-entite-entite.html
+
+https://www.logicbig.com/how-to/code-snippets/jcode-jpa-column.html
+
+
 
 
 
