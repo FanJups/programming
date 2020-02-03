@@ -815,6 +815,10 @@ https://developers.google.com/identity/sign-in/web/server-side-flow
 
 https://stackoverflow.com/questions/11330919/correct-redirect-uri-for-google-api-and-oauth-2-0
 
+# createapp oauth facebook
+
+https://www.google.com/search?q=createapp+oauth+facebook&oq=createapp+oauth+facebook&aqs=chrome..69i57.15447j0j7&sourceid=chrome&ie=UTF-8
+
 # spring properties
 
 https://www.baeldung.com/properties-with-spring
