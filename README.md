@@ -799,6 +799,14 @@ https://www.google.com/search?q=Sign+up+with+google+spring+boot&oq=Sign+up+with+
 
 https://www.callicoder.com/spring-boot-security-oauth2-social-login-part-1/
 
+# create app oauth google
+
+https://www.google.com/search?q=create+app+oauth+google&oq=create+app+oauth+google&aqs=chrome..69i57j0l6j69i60.18481j0j7&sourceid=chrome&ie=UTF-8
+
+https://developers.google.com/adwords/api/docs/guides/authentication
+
+https://developers.google.com/identity/sign-in/web/sign-in
+
 # the complete spring boot security registration (SPECIAL)
 
 https://www.google.com/search?q=the+complete+spring+boot+security+registration&oq=the+complete+spring+boot+security+registration&aqs=chrome..69i57.25275j0j7&sourceid=chrome&ie=UTF-8
