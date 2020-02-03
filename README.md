@@ -813,6 +813,8 @@ https://www.google.com/search?q=examples+of+authorized+redirect+uris+google+loca
 
 https://developers.google.com/identity/sign-in/web/server-side-flow
 
+https://stackoverflow.com/questions/11330919/correct-redirect-uri-for-google-api-and-oauth-2-0
+
 # the complete spring boot security registration (SPECIAL)
 
 https://www.google.com/search?q=the+complete+spring+boot+security+registration&oq=the+complete+spring+boot+security+registration&aqs=chrome..69i57.25275j0j7&sourceid=chrome&ie=UTF-8
