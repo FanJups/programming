@@ -807,6 +807,12 @@ https://developers.google.com/adwords/api/docs/guides/authentication
 
 https://developers.google.com/identity/sign-in/web/sign-in
 
+# examples of authorized redirect uris google localhost
+
+https://www.google.com/search?q=examples+of+authorized+redirect+uris+google+localhost&oq=examples+of+Authorized+redirect+URIs&aqs=chrome.5.69i57j33l5.10718j0j7&sourceid=chrome&ie=UTF-8
+
+https://developers.google.com/identity/sign-in/web/server-side-flow
+
 # the complete spring boot security registration (SPECIAL)
 
 https://www.google.com/search?q=the+complete+spring+boot+security+registration&oq=the+complete+spring+boot+security+registration&aqs=chrome..69i57.25275j0j7&sourceid=chrome&ie=UTF-8
