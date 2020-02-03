@@ -819,6 +819,12 @@ https://stackoverflow.com/questions/11330919/correct-redirect-uri-for-google-api
 
 https://www.google.com/search?q=createapp+oauth+facebook&oq=createapp+oauth+facebook&aqs=chrome..69i57.15447j0j7&sourceid=chrome&ie=UTF-8
 
+# spring boot oauth2 login github
+
+https://www.google.com/search?q=spring+boot+oauth2+login+github&oq=spring+boot+oauth2+login+github&aqs=chrome..69i57j0j69i60l3.32832j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/wonwoo/spring-boot-oauth2-login
+
 # spring properties
 
 https://www.baeldung.com/properties-with-spring
