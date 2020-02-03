@@ -819,6 +819,12 @@ https://stackoverflow.com/questions/11330919/correct-redirect-uri-for-google-api
 
 https://www.baeldung.com/properties-with-spring
 
+# how to define a list as value for a property in application.properties
+
+https://www.google.com/search?sxsrf=ACYBGNSEcdUMox-wwZ1ImT20oDpLCTlptw%3A1580704596941&ei=VKM3XpCXOfW58gLc7YFg&q=how+to+define+a+list+as+value+for+a+property+in+application.properties&oq=how+to+define+a+list+as+value+for+a+property+in+application.properties&gs_l=psy-ab.3...266865.280635..285959...0.0..0.896.7842.2-20j5j6-1......0....1..gws-wiz.......35i39.qjp6JYxChZ8&ved=0ahUKEwiQkfu_x7TnAhX1nFwKHdx2AAwQ4dUDCAs&uact=5
+
+https://stackoverflow.com/questions/12576156/reading-a-list-from-properties-file-and-load-with-spring-annotation-value
+
 # the complete spring boot security registration (SPECIAL)
 
 https://www.google.com/search?q=the+complete+spring+boot+security+registration&oq=the+complete+spring+boot+security+registration&aqs=chrome..69i57.25275j0j7&sourceid=chrome&ie=UTF-8
