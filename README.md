@@ -825,6 +825,8 @@ https://www.google.com/search?q=spring+boot+oauth2+login+github&oq=spring+boot+o
 
 https://github.com/wonwoo/spring-boot-oauth2-login
 
+https://github.com/spring-guides/tut-spring-boot-oauth2
+
 # spring properties
 
 https://www.baeldung.com/properties-with-spring
