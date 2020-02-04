@@ -936,6 +936,14 @@ http://blog.paumard.org/cours/jpa/chap03-entite-entite.html
 
 https://www.logicbig.com/how-to/code-snippets/jcode-jpa-column.html
 
+# Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986 Apache Tomcat/9.0.13 spring boot
+
+https://www.google.com/search?sxsrf=ACYBGNTDnMbeFIRe-jGOhn-wO3KToiVFgw%3A1580808712217&ei=CDo5XrjzDJL9kwXrmZvICg&q=Invalid+character+found+in+the+request+target.+The+valid+characters+are+defined+in+RFC+7230+and+RFC+3986+Apache+Tomcat%2F9.0.13+spring+boot&oq=Invalid+character+found+in+the+request+target.+The+valid+characters+are+defined+in+RFC+7230+and+RFC+3986+Apache+Tomcat%2F9.0.13+spring+boot&gs_l=psy-ab.3...18809.26179..27193...0.0..0.0.0.......10....1..gws-wiz.hCrKgkC3CyE&ved=0ahUKEwi4l_-ty7fnAhWS_qQKHevMBqkQ4dUDCAs&uact=5
+
+
+
+
+
 
 
 
