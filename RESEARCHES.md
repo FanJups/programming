@@ -10,3 +10,7 @@ https://dzone.com/articles/integrate-social-login-into-your-spring-boot-app
 
 https://o7planning.org/en/11823/social-login-with-oauth2-in-spring-boot
 
+# spring-social
+
+https://www.javainuse.com/spring/spring-social
+
