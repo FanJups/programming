@@ -6,3 +6,7 @@ https://www.google.com/search?q=social+login+and+signup+spring+boot&oq=social+lo
 
 https://dzone.com/articles/integrate-social-login-into-your-spring-boot-app
 
+# social-login-with-oauth2-in-spring-boot
+
+https://o7planning.org/en/11823/social-login-with-oauth2-in-spring-boot
+
