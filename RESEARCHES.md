@@ -28,4 +28,8 @@ https://github.com/vaquarkhan/vaquarkhan/wiki/Convert-Gradle-to-Maven
 
 https://stackoverflow.com/questions/12888490/gradle-build-gradle-to-maven-pom-xml
 
+# generate a pom.xml from build.gradle
+
+https://gist.github.com/jmruc/5852692
+
 
