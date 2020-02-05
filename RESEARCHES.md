@@ -20,4 +20,8 @@ https://www.google.com/search?q=convert+gradle+file+to+maven+online&oq=convert+g
 
 https://dzone.com/articles/how-to-convert-maven-to-gradle-and-vice-versa
 
+# Convert-Gradle-to-Maven
+
+https://github.com/vaquarkhan/vaquarkhan/wiki/Convert-Gradle-to-Maven
+
 
