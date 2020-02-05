@@ -14,3 +14,10 @@ https://o7planning.org/en/11823/social-login-with-oauth2-in-spring-boot
 
 https://www.javainuse.com/spring/spring-social
 
+# convert gradle file to maven online
+
+https://www.google.com/search?q=convert+gradle+file+to+maven+online&oq=convert+gradle+file+to+&aqs=chrome.1.69i57j0l3.11247j0j7&sourceid=chrome&ie=UTF-8
+
+https://dzone.com/articles/how-to-convert-maven-to-gradle-and-vice-versa
+
+
