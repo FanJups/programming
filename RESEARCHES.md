@@ -24,4 +24,8 @@ https://dzone.com/articles/how-to-convert-maven-to-gradle-and-vice-versa
 
 https://github.com/vaquarkhan/vaquarkhan/wiki/Convert-Gradle-to-Maven
 
+# gradle-build-gradle-to-maven-pom-xml
+
+https://stackoverflow.com/questions/12888490/gradle-build-gradle-to-maven-pom-xml
+
 
