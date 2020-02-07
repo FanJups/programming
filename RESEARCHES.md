@@ -32,4 +32,6 @@ https://stackoverflow.com/questions/12888490/gradle-build-gradle-to-maven-pom-xm
 
 https://gist.github.com/jmruc/5852692
 
+# spring-boot-oauth2
 
+https://spring.io/guides/tutorials/spring-boot-oauth2/
