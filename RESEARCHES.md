@@ -37,3 +37,5 @@ https://gist.github.com/jmruc/5852692
 https://spring.io/guides/tutorials/spring-boot-oauth2/
 
 https://www.baeldung.com/facebook-authentication-with-spring-security-and-social
+
+https://www.baeldung.com/spring-security-5-oauth2-login
