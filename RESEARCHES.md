@@ -53,3 +53,11 @@ https://stackoverflow.com/questions/29085295/spring-mvc-restcontroller-and-redir
 https://www.google.com/search?q=Correct+the+classpath+of+your+application+so+that+it+contains+a+single%2C+compatible+version+of+org.springframework.plugin.core.PluginRegistry&oq=Correct+the+classpath+of+your+application+so+that+it+contains+a+single%2C+compatible+version+of+org.springframework.plugin.core.PluginRegistry&aqs=chrome..69i57.3972j0j7&sourceid=chrome&ie=UTF-8
 
 https://stackoverflow.com/questions/54765912/spring-boot-2-2-0-and-maven-plugin-trouble
+
+# oauth2 user service spring boot
+
+https://www.google.com/search?q=oauth2+user+service+spring+boot&oq=OAuth2UserService&aqs=chrome.5.69i57j0l5.10658j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/htmlsingle/
+
+
