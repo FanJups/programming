@@ -40,6 +40,8 @@ https://www.baeldung.com/facebook-authentication-with-spring-security-and-social
 
 https://www.baeldung.com/spring-security-5-oauth2-login
 
+https://developers.google.com/identity/sign-in/web/sign-in
+
 # redirect spring boot rest
 
 https://www.google.com/search?q=redirect+spring+boot+rest&oq=redirecttion+spring+&aqs=chrome.3.69i57j0l7.37648j0j7&sourceid=chrome&ie=UTF-8
