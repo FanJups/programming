@@ -45,3 +45,9 @@ https://www.baeldung.com/spring-security-5-oauth2-login
 https://www.google.com/search?q=redirect+spring+boot+rest&oq=redirecttion+spring+&aqs=chrome.3.69i57j0l7.37648j0j7&sourceid=chrome&ie=UTF-8
 
 https://stackoverflow.com/questions/29085295/spring-mvc-restcontroller-and-redirect
+
+# Correct the classpath of your application so that it contains a single, compatible version of org.springframework.plugin.core.PluginRegistry
+
+https://www.google.com/search?q=Correct+the+classpath+of+your+application+so+that+it+contains+a+single%2C+compatible+version+of+org.springframework.plugin.core.PluginRegistry&oq=Correct+the+classpath+of+your+application+so+that+it+contains+a+single%2C+compatible+version+of+org.springframework.plugin.core.PluginRegistry&aqs=chrome..69i57.3972j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/54765912/spring-boot-2-2-0-and-maven-plugin-trouble
