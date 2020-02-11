@@ -60,4 +60,8 @@ https://www.google.com/search?q=oauth2+user+service+spring+boot&oq=OAuth2UserSer
 
 https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/htmlsingle/
 
+# IMPORTANT
+
+https://docs.spring.io/spring-security/site/docs/current/reference/html/oauth2.html
+
 
