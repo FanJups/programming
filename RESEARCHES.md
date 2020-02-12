@@ -74,4 +74,8 @@ https://docs.spring.io/autorepo/docs/spring-security/5.0.0.M4/api/org/springfram
 
 https://dzone.com/articles/spring-security-5-oauth-20-login-and-signup-in-sta
 
+# SpringSecurityOauth2.0 study notes
+
+http://www.programmersought.com/article/4659500887/
+
 
