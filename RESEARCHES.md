@@ -82,4 +82,8 @@ http://www.programmersought.com/article/4659500887/
 
 https://docs.spring.io/spring-security/site/docs/5.0.7.RELEASE/reference/html/oauth2login-advanced.html
 
+# spring-security-oauth2-jose
+
+https://docs.spring.io/spring-security/site/docs/current/reference/html5/#spring-security-oauth2-jose
+
 
