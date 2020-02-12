@@ -70,4 +70,8 @@ https://docs.spring.io/spring-security/site/docs/current/api/org/springframework
 
 https://docs.spring.io/autorepo/docs/spring-security/5.0.0.M4/api/org/springframework/security/oauth2/client/user/OAuth2UserService.html
 
+# Social login explained very well
+
+https://dzone.com/articles/spring-security-5-oauth-20-login-and-signup-in-sta
+
 
