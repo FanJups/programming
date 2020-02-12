@@ -78,4 +78,8 @@ https://dzone.com/articles/spring-security-5-oauth-20-login-and-signup-in-sta
 
 http://www.programmersought.com/article/4659500887/
 
+# spring-security/site/docs/5.0.7.RELEASE/reference/html/oauth2login-advanced.html
+
+https://docs.spring.io/spring-security/site/docs/5.0.7.RELEASE/reference/html/oauth2login-advanced.html
+
 
