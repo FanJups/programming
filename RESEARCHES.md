@@ -92,6 +92,14 @@ https://www.google.com/search?q=loginSuccess+of+oauth+login+not+working&oq=login
 
 https://javadeveloperzone.com/spring-security/spring-security-oauth2-success-or-failed-event-listener/
 
+# oauth login don't record data in database
+
+https://www.google.com/search?sxsrf=ACYBGNS8rbeDqptGZaabjmmfGW3D0RHEtw%3A1581505315609&ei=I9tDXtHsJMnt5gKn2IfYBA&q=oauth+login+don%27t+record+data+in+database&oq=oauth+login+don%27t+record+data+in+database&gs_l=psy-ab.3...319738.335145..335469...0.2..1.1886.20233.5-1j2j12j2......0....1..gws-wiz.......0i71j35i39j0i67j0i203j0i22i30j0i22i10i30j33i160j33i21j33i22i29i30.U2nHmauM_jc&ved=0ahUKEwiRirC07svnAhXJtlkKHSfsAUsQ4dUDCAs&uact=5
+
+https://www.vertabelo.com/blog/how-to-store-authentication-data-in-a-database-part-4-implementing-the-login-with-facebook-button-in-python/
+
+https://auth0.com/docs/api/authentication#rate-limiting
+
 
 
 
