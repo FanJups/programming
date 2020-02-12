@@ -90,6 +90,8 @@ https://docs.spring.io/spring-security/site/docs/current/reference/html5/#spring
 
 https://www.google.com/search?q=loginSuccess+of+oauth+login+not+working&oq=loginSuccess+of+oauth+login+not+working+&aqs=chrome..69i57.15262j0j4&sourceid=chrome&ie=UTF-8
 
+https://javadeveloperzone.com/spring-security/spring-security-oauth2-success-or-failed-event-listener/
+
 
 
 
