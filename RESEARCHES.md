@@ -86,4 +86,10 @@ https://docs.spring.io/spring-security/site/docs/5.0.7.RELEASE/reference/html/oa
 
 https://docs.spring.io/spring-security/site/docs/current/reference/html5/#spring-security-oauth2-jose
 
+# loginSuccess of oauth login not working
+
+https://www.google.com/search?q=loginSuccess+of+oauth+login+not+working&oq=loginSuccess+of+oauth+login+not+working+&aqs=chrome..69i57.15262j0j4&sourceid=chrome&ie=UTF-8
+
+
+
 
