@@ -100,6 +100,10 @@ https://www.vertabelo.com/blog/how-to-store-authentication-data-in-a-database-pa
 
 https://auth0.com/docs/api/authentication#rate-limiting
 
+# spring-data-annotations
+
+https://www.baeldung.com/spring-data-annotations
+
 
 
 
