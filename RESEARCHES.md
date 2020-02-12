@@ -64,4 +64,10 @@ https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/htmlsi
 
 https://docs.spring.io/spring-security/site/docs/current/reference/html/oauth2.html
 
+# OAuth2UserService
+
+https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/oauth2/client/userinfo/OAuth2UserService.html
+
+https://docs.spring.io/autorepo/docs/spring-security/5.0.0.M4/api/org/springframework/security/oauth2/client/user/OAuth2UserService.html
+
 
