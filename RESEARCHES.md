@@ -104,6 +104,14 @@ https://auth0.com/docs/api/authentication#rate-limiting
 
 https://www.baeldung.com/spring-data-annotations
 
+# save files spring boot baeldung rest api
+
+https://www.google.com/search?sxsrf=ACYBGNRiMpHr84A8ukTPd-jHLWWj_OYgjw%3A1581599405975&ei=rUpFXr2RO5GrytMPzb-PoAo&q=save+files+spring+boot+baeldung+rest+api&oq=save+files+spring+boot+baeldung+rest+api&gs_l=psy-ab.3..33i22i29i30.13876.16561..17106...0.2..0.640.4542.3-1j3j5......0....1..gws-wiz.......0i71j33i160j33i21.HB0VrTQ_hcU&ved=0ahUKEwj9m5T2zM7nAhWRlXIEHc3fA6QQ4dUDCAs&uact=5
+
+https://www.baeldung.com/spring-apache-file-upload
+
+https://www.baeldung.com/spring-rest-template-multipart-upload
+
 
 
 
