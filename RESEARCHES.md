@@ -120,6 +120,16 @@ https://stackoverflow.com/questions/2990799/difference-between-fetchtype-lazy-an
 
 http://blog.paumard.org/cours/jpa/chap03-entite-chargement.html
 
+# implement @onetoone unidirectional
+
+https://www.google.com/search?sxsrf=ACYBGNQjyHut-SEGdO0wh6ikO2GTYE3mgw%3A1581669770163&ei=il1GXtmrCaG3ggfembrQCA&q=implement+%40onetoone+unidirectional&oq=implement+%40OneToOne+uni&gs_l=psy-ab.1.2.33i160l2j33i21.6985.18219..20227...0.2..0.387.2985.2-8j2......0....1..gws-wiz.......0i71.nnC_9uicf98
+
+https://vladmihalcea.com/the-best-way-to-map-a-onetoone-relationship-with-jpa-and-hibernate/
+
+https://thoughts-on-java.org/ultimate-guide-association-mappings-jpa-hibernate/
+
+
+
 
 
 
