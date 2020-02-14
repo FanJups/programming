@@ -112,6 +112,12 @@ https://www.baeldung.com/spring-apache-file-upload
 
 https://www.baeldung.com/spring-rest-template-multipart-upload
 
+# fetchtype lazy jpa
+
+https://www.google.com/search?q=fetchtype+lazy+jpa&oq=FechType+lazy&aqs=chrome.2.69i57j0l7.22627j0j4&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/2990799/difference-between-fetchtype-lazy-and-eager-in-java-persistence-api
+
 
 
 
