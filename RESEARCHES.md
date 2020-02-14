@@ -118,6 +118,8 @@ https://www.google.com/search?q=fetchtype+lazy+jpa&oq=FechType+lazy&aqs=chrome.2
 
 https://stackoverflow.com/questions/2990799/difference-between-fetchtype-lazy-and-eager-in-java-persistence-api
 
+http://blog.paumard.org/cours/jpa/chap03-entite-chargement.html
+
 
 
 
