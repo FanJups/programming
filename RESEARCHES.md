@@ -128,6 +128,13 @@ https://vladmihalcea.com/the-best-way-to-map-a-onetoone-relationship-with-jpa-an
 
 https://thoughts-on-java.org/ultimate-guide-association-mappings-jpa-hibernate/
 
+# how to verify that the username matches password in database using spring security
+
+https://www.google.com/search?q=how+to+verify+that+the+username+matches+password+in+database+using+spring+security&oq=how+to+verify+that+the+username+matches+password+in+database+using+spring+security&aqs=chrome..69i57.48188j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/51497317/authentication-issue-in-spring-security-checking-only-username-not-password
+
+
 
 
 
