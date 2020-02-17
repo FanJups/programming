@@ -144,6 +144,12 @@ https://www.geeksforgeeks.org/optional-ofnullable-method-in-java-with-examples/
 
 https://www.developpez.com/actu/134958/Java-apprendre-a-utiliser-la-classe-Optional-lt-T-gt-pour-eviter-d-utiliser-explicitement-null-par-Gugelhupf/
 
+# delete logfiles in production maven pom.xml
+
+https://www.google.com/search?q=delete+logfiles+in+production+maven+pom.xml&oq=delete+logfiles+in+production+maven+pom.xml&aqs=chrome..69i57j33.50497j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/18637626/remove-or-delete-resource-files-from-target-directory-using-pom-file
+
 
 
 
