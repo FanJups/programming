@@ -134,6 +134,8 @@ https://www.google.com/search?q=how+to+verify+that+the+username+matches+password
 
 https://stackoverflow.com/questions/51497317/authentication-issue-in-spring-security-checking-only-username-not-password
 
+https://docs.spring.io/spring-security/site/docs/current/reference/html/jc-authentication.html
+
 
 
 
