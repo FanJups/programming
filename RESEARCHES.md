@@ -150,6 +150,10 @@ https://www.google.com/search?q=delete+logfiles+in+production+maven+pom.xml&oq=d
 
 https://stackoverflow.com/questions/18637626/remove-or-delete-resource-files-from-target-directory-using-pom-file
 
+# guides/mini/guide-building-for-different-environments
+
+http://maven.apache.org/guides/mini/guide-building-for-different-environments.html
+
 
 
 
