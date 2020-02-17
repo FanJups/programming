@@ -136,6 +136,14 @@ https://stackoverflow.com/questions/51497317/authentication-issue-in-spring-secu
 
 https://docs.spring.io/spring-security/site/docs/current/reference/html/jc-authentication.html
 
+# Optional.ofNullable
+
+https://www.google.com/search?q=Optional.ofNullable&oq=Optional.ofNullable&aqs=chrome..69i57j0l7.7930j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.geeksforgeeks.org/optional-ofnullable-method-in-java-with-examples/
+
+https://www.developpez.com/actu/134958/Java-apprendre-a-utiliser-la-classe-Optional-lt-T-gt-pour-eviter-d-utiliser-explicitement-null-par-Gugelhupf/
+
 
 
 
