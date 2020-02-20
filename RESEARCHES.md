@@ -162,6 +162,10 @@ https://dzone.com/articles/5-practical-tips-for-building-your-spring-boot-api-1?
 
 https://dzone.com/articles/spring-boot-run-and-build-in-docker?edition=575293&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-02-19
 
+# spring-vs-spring-boot
+
+https://dzone.com/articles/spring-vs-spring-boot?edition=575293&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-02-19
+
 
 
 
