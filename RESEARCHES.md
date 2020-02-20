@@ -174,6 +174,15 @@ https://dzone.com/articles/spring-boot-embedded-tomcat-example?edition=575293&ut
 
 https://dzone.com/articles/how-a-url-shortening-application-works
 
+# handle 404 error spring boot
+
+https://www.google.com/search?q=handle+404+error+spring+boot&oq=handle+404+error+spring+boot&aqs=chrome..69i57j0l2.9947j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.baeldung.com/spring-boot-custom-error-page
+
+https://mkyong.com/spring-boot/spring-rest-error-handling-example/
+
+
 
 
 
