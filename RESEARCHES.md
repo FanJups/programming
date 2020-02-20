@@ -166,6 +166,10 @@ https://dzone.com/articles/spring-boot-run-and-build-in-docker?edition=575293&ut
 
 https://dzone.com/articles/spring-vs-spring-boot?edition=575293&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-02-19
 
+# spring-boot-embedded-tomcat-example
+
+https://dzone.com/articles/spring-boot-embedded-tomcat-example?edition=575293&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-02-19
+
 
 
 
