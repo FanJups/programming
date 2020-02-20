@@ -158,6 +158,10 @@ http://maven.apache.org/guides/mini/guide-building-for-different-environments.ht
 
 https://dzone.com/articles/5-practical-tips-for-building-your-spring-boot-api-1?edition=575293&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-02-19
 
+# spring-boot-run-and-build-in-docker
+
+https://dzone.com/articles/spring-boot-run-and-build-in-docker?edition=575293&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-02-19
+
 
 
 
