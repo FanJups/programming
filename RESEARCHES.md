@@ -170,6 +170,10 @@ https://dzone.com/articles/spring-vs-spring-boot?edition=575293&utm_source=Daily
 
 https://dzone.com/articles/spring-boot-embedded-tomcat-example?edition=575293&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-02-19
 
+# how-a-url-shortening-application-works
+
+https://dzone.com/articles/how-a-url-shortening-application-works
+
 
 
 
