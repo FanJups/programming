@@ -154,6 +154,10 @@ https://stackoverflow.com/questions/18637626/remove-or-delete-resource-files-fro
 
 http://maven.apache.org/guides/mini/guide-building-for-different-environments.html
 
+# 5-practical-tips-for-building-your-spring-boot-api-1
+
+https://dzone.com/articles/5-practical-tips-for-building-your-spring-boot-api-1?edition=575293&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-02-19
+
 
 
 
