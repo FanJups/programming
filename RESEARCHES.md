@@ -182,6 +182,12 @@ https://www.baeldung.com/spring-boot-custom-error-page
 
 https://mkyong.com/spring-boot/spring-rest-error-handling-example/
 
+# how to get http or https using HttpServletRequest java
+
+https://www.google.com/search?q=how+to+get+http+or+https+using+HttpServletRequest+java&oq=how+to+get+http+or+https+using+HttpServletRequest+java&aqs=chrome..69i57j33.59532j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/8200853/how-can-i-know-if-the-request-to-the-servlet-was-executed-using-http-or-https
+
 
 
 
