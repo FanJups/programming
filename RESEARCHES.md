@@ -188,6 +188,12 @@ https://www.google.com/search?q=how+to+get+http+or+https+using+HttpServletReques
 
 https://stackoverflow.com/questions/8200853/how-can-i-know-if-the-request-to-the-servlet-was-executed-using-http-or-https
 
+# indicate the Authorization callback URL on developer facebook
+
+https://www.google.com/search?q=indicate+the+Authorization+callback+URL+on+developer+facebook&oq=indicate+the+Authorization+callback+URL+on+developer+facebook&aqs=chrome..69i57.13083j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/6120565/facebook-application-authorize-callback-url
+
 
 
 
