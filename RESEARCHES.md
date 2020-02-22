@@ -194,6 +194,10 @@ https://www.google.com/search?q=indicate+the+Authorization+callback+URL+on+devel
 
 https://stackoverflow.com/questions/6120565/facebook-application-authorize-callback-url
 
+# facebook-login/manually-build-a-login-flow
+
+https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow
+
 
 
 
