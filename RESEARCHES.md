@@ -198,6 +198,12 @@ https://stackoverflow.com/questions/6120565/facebook-application-authorize-callb
 
 https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow
 
+# how to get the provider using open id connect spring boot ?
+
+https://www.google.com/search?sxsrf=ALeKk01Q2O66Tqqrz1L5FICP0d6tn4M4KQ%3A1582716013886&ei=bVRWXpvjNYyrgAblp4PoDA&q=how+to+get+the+provider+using+open+id+connect+spring+boot+%3F&oq=how+to+get+the+provider+using+open+id+connect+spring+boot+%3F&gs_l=psy-ab.3..33i160l2.100277.139248..139771...0.2..3.1854.29209.2-8j27j5j7j7j0j3......0....1..gws-wiz.......0i71j35i39j0i131i67j0i131j0j0i203j0i22i30j33i22i29i30j33i21.1m7CWJdl3pY&ved=0ahUKEwjbzabOjO_nAhWMFcAKHeXTAM0Q4dUDCAs&uact=5
+
+https://www.baeldung.com/spring-security-openid-connect
+
 
 
 
