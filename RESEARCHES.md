@@ -210,6 +210,16 @@ https://www.google.com/search?q=how+to+distinguish+facebook+and+google+providers
 
 https://www.codeflow.site/fr/article/spring-security-openid-connect
 
+# how to know the open id connect provider ?
+
+https://www.google.com/search?sxsrf=ALeKk02O3rj3D2-CV7ePwowkRiinHGd4kA%3A1582792851431&ei=k4BXXpqBGoKEhbIP1ZGZoAs&q=how+to+know+the+open+id+connect+provider+%3F&oq=how+to+know+the+open+id+connect+provider+%3F&gs_l=psy-ab.3...10461.14883..15680...0.2..0.302.2274.2-8j1......0....1..gws-wiz.......0i71.LjK31ACWX8w&ved=0ahUKEwjalqbtqvHnAhUCQkEAHdVIBrQQ4dUDCAs&uact=5
+
+https://openid.net/connect/
+
+https://connect2id.com/products/nimbus-oauth-openid-connect-sdk/openid-connect-providers
+
+https://developers.google.com/identity/protocols/OpenIDConnect#authenticatingtheuser
+
 
 
 
