@@ -220,6 +220,10 @@ https://connect2id.com/products/nimbus-oauth-openid-connect-sdk/openid-connect-p
 
 https://developers.google.com/identity/protocols/OpenIDConnect#authenticatingtheuser
 
+# facebook-login
+
+https://developers.facebook.com/docs/facebook-login/
+
 
 
 
