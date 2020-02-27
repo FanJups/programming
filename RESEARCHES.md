@@ -204,6 +204,12 @@ https://www.google.com/search?sxsrf=ALeKk01Q2O66Tqqrz1L5FICP0d6tn4M4KQ%3A1582716
 
 https://www.baeldung.com/spring-security-openid-connect
 
+# how to distinguish facebook and google providers with OpenID Connect spring boot
+
+https://www.google.com/search?q=how+to+distinguish+facebook+and+google+providers+with+OpenID+Connect+spring+boot&oq=how+to+distinguish+facebook+and+google+providers+with+OpenID+Connect+spring+boot&aqs=chrome..69i57.69054j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.codeflow.site/fr/article/spring-security-openid-connect
+
 
 
 
