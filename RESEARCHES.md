@@ -224,6 +224,15 @@ https://developers.google.com/identity/protocols/OpenIDConnect#authenticatingthe
 
 https://developers.facebook.com/docs/facebook-login/
 
+# how to convert a java project to a maven project
+
+https://www.google.com/search?q=how+to+convert+a+java+project+to+a+maven+project&oq=how+to+convert+a+java+project+to+a+maven+project&aqs=chrome..69i57j69i59j0l6.5257j0j7&sourceid=chrome&ie=UTF-8
+
+https://crunchify.com/how-to-convert-existing-java-project-to-maven-in-eclipse/
+
+https://java2blog.com/how-to-convert-existing-java-project-to/
+
+
 
 
 
