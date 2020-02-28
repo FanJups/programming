@@ -232,6 +232,14 @@ https://crunchify.com/how-to-convert-existing-java-project-to-maven-in-eclipse/
 
 https://java2blog.com/how-to-convert-existing-java-project-to/
 
+# error updating maven configuration cannot nest
+
+https://www.google.com/search?q=error+updating+maven+configuration+cannot+nest&oq=error+updating+maven+&aqs=chrome.3.69i57j0l7.16725j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/10838109/eclipse-build-path-nesting-errors
+
+
+
 
 
 
