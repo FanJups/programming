@@ -238,6 +238,16 @@ https://www.google.com/search?q=error+updating+maven+configuration+cannot+nest&o
 
 https://stackoverflow.com/questions/10838109/eclipse-build-path-nesting-errors
 
+# how to send an object to spring boot restcontroller with sendredirect
+
+https://www.google.com/search?q=how+to+send+an+object+to+spring+boot+restcontroller+with+sendredirect&oq=how+to+send+an+object+to+spring+boot+restcontroller+with+sendredirect&aqs=chrome..69i57.79667j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/29085295/spring-mvc-restcontroller-and-redirect
+
+
+
+
+
 
 
 
