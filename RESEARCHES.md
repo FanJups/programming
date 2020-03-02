@@ -260,6 +260,12 @@ http://dolszewski.com/spring/how-to-bind-requestparam-to-object/
 
 https://www.baeldung.com/spring-value-defaults
 
+# call a spring boot method api in another class
+
+https://www.google.com/search?q=call+a+spring+boot+method+api+in+another+class&oq=call+a+spring+boot+method+api+in+another+class&aqs=chrome..69i57.36185j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/52321463/how-to-call-a-rest-controller-from-another-rest-controller
+
 
 
 
