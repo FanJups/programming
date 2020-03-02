@@ -244,6 +244,14 @@ https://www.google.com/search?q=how+to+send+an+object+to+spring+boot+restcontrol
 
 https://stackoverflow.com/questions/29085295/spring-mvc-restcontroller-and-redirect
 
+# give a value to Spring boot api function parameter
+
+https://www.google.com/search?q=give+a+value+to+Spring+boot+api+function+parameter&oq=give+a+value+to+Spring+boot+api+function+parameter&aqs=chrome..69i57j33.33065j0j7&sourceid=chrome&ie=UTF-8
+
+https://dzone.com/articles/spring-boot-passing-parameters
+
+https://www.baeldung.com/spring-request-param
+
 
 
 
