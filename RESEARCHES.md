@@ -252,6 +252,14 @@ https://dzone.com/articles/spring-boot-passing-parameters
 
 https://www.baeldung.com/spring-request-param
 
+# spring boot passing object parameter with default value
+
+https://www.google.com/search?q=spring+boot+passing+object+parameter+with+default+value&oq=spring+boot+passing+object+parameter+with+default+value&aqs=chrome..69i57.34307j0j7&sourceid=chrome&ie=UTF-8
+
+http://dolszewski.com/spring/how-to-bind-requestparam-to-object/
+
+https://www.baeldung.com/spring-value-defaults
+
 
 
 
