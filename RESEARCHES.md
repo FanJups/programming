@@ -266,6 +266,20 @@ https://www.google.com/search?q=call+a+spring+boot+method+api+in+another+class&o
 
 https://stackoverflow.com/questions/52321463/how-to-call-a-rest-controller-from-another-rest-controller
 
+# difference between token and refesh token
+
+https://www.google.com/search?q=difference+between+token+and+refesh+token&oq=difference+between+token+and+refesh+token&aqs=chrome..69i57j0l4.13399j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens
+
+https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
+
+https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
+
+https://auth0.com/learn/refresh-tokens/
+
+
+
 
 
 
