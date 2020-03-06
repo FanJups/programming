@@ -283,8 +283,10 @@ https://auth0.com/learn/refresh-tokens/
 https://dzone.com/articles/rest-service-which-consumes-any-type-of-request-fo?edition=583298&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=integration%202020-03-05
 
 
+# implementing-jwt-authentication-on-spring-boot
 
 
+https://auth0-com.cdn.ampproject.org/c/s/auth0.com/blog/amp/implementing-jwt-authentication-on-spring-boot/
 
 
 
