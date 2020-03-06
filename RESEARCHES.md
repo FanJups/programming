@@ -278,6 +278,9 @@ https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
 
 https://auth0.com/learn/refresh-tokens/
 
+# rest-service-which-consumes-any-type-of-request
+
+https://dzone.com/articles/rest-service-which-consumes-any-type-of-request-fo?edition=583298&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=integration%202020-03-05
 
 
 
