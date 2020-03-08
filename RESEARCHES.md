@@ -288,6 +288,20 @@ https://dzone.com/articles/rest-service-which-consumes-any-type-of-request-fo?ed
 
 https://auth0-com.cdn.ampproject.org/c/s/auth0.com/blog/amp/implementing-jwt-authentication-on-spring-boot/
 
+# firebase
+
+https://github.com/gladius-thayalarajan/firebase-spring-boot-rest-api-authentication/blob/master/src/main/java/io/thepro/apiservice/security/SecurityUtils.java
+
+https://blog.nearsoftjobs.com/spring-boot-oauth2-firebase-d8a4bf37ce15
+
+https://awaters1.github.io/Spring-Boot-Single-Sign-On-Firebase-Part-2/
+
+https://awaters1.github.io/Spring-Boot-Single-Sign-On-Firebase/
+
+http://pscode.rs/firebase-and-spring-boot-integration/
+
+
+
 
 
 
