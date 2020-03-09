@@ -300,6 +300,12 @@ https://awaters1.github.io/Spring-Boot-Single-Sign-On-Firebase/
 
 http://pscode.rs/firebase-and-spring-boot-integration/
 
+# difference between @component & @service
+
+https://www.google.com/search?q=difference+between+%40component+%26+%40service&oq=difference+between+%40component+%26+%40service&aqs=chrome..69i57j69i58.36748j0j7&sourceid=chrome&ie=UTF-8
+
+https://javarevisited.blogspot.com/2017/11/difference-between-component-service.html
+
 
 
 
