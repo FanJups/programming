@@ -307,6 +307,13 @@ https://www.google.com/search?q=difference+between+%40component+%26+%40service&o
 https://javarevisited.blogspot.com/2017/11/difference-between-component-service.html
 
 
+# serialize and deserialize in java
+
+https://www.google.com/search?q=serialize+and+deserialize+in+java&oq=serialize+%26+deserialize+&aqs=chrome.3.69i57j0l7.36856j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.geeksforgeeks.org/serialization-in-java/
+
+
 
 
 
