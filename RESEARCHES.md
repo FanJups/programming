@@ -328,3 +328,8 @@ https://thoughts-on-java.org/5-reasons-use-jpa-hibernate/?utm_source=social&utm_
 https://www.supinfo.com/articles/single/5642-qu-est-ce-qu-une-api-rest-restful
 
 
+
+# break-a-monolith-to-microservices-12-best-practice?edition=583303&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=microservices%202020-03-11
+
+
+https://dzone.com/articles/break-a-monolith-to-microservices-12-best-practice?edition=583303&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=microservices%202020-03-11
