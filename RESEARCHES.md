@@ -315,11 +315,10 @@ https://www.geeksforgeeks.org/serialization-in-java/
 
 
 
+# 5 reasons-use-jpa-hibernate
 
 
-
-
-
+https://thoughts-on-java.org/5-reasons-use-jpa-hibernate/?utm_source=social&utm_medium=linkedin&utm_campaign=tutorial
 
 
 
