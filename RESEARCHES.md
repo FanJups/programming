@@ -321,7 +321,10 @@ https://www.geeksforgeeks.org/serialization-in-java/
 https://thoughts-on-java.org/5-reasons-use-jpa-hibernate/?utm_source=social&utm_medium=linkedin&utm_campaign=tutorial
 
 
+# qu-est-ce-qu-une-api-rest-restful
 
 
+
+https://www.supinfo.com/articles/single/5642-qu-est-ce-qu-une-api-rest-restful
 
 
