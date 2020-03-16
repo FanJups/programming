@@ -12,3 +12,5 @@ https://www.indianstudyhub.com/questions/practice/Transactions-DBMS-Questions-an
 
 https://fr.slideshare.net/zoepowell999/top-10-transaction-interview-questions-with-answers
 
+https://www.guru99.com/database-interview-questions.html
+
