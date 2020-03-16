@@ -14,3 +14,11 @@ https://fr.slideshare.net/zoepowell999/top-10-transaction-interview-questions-wi
 
 https://www.guru99.com/database-interview-questions.html
 
+# algorithms and data structures interview questions and answers pdf
+
+https://career.guru99.com/top-50-data-structure-interview-questions/
+
+https://www.tutorialspoint.com/data_structures_algorithms/pdf/data_structures_algorithms_interview_questions.pdf
+
+
+
