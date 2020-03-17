@@ -34,5 +34,9 @@ https://www.tutorialspoint.com/data_structures_algorithms/pdf/data_structures_al
 
 https://hackr.io/blog/java-interview-questions
 
+# contributors.md model
+
+https://github.com/HotelsDotCom/bull/blob/master/CONTRIBUTORS.md
+
 
 
