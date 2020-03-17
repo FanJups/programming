@@ -341,3 +341,11 @@ https://www.google.com/search?q=%40RepositoryRestResource&oq=%40RepositoryRestRe
 https://stackoverflow.com/questions/22824840/when-to-use-restcontroller-vs-repositoryrestresource
 
 https://spring.io/guides/gs/accessing-neo4j-data-rest/
+
+# companies projects uml
+
+https://www.google.com/search?q=companies+projects+uml&oq=companies+projects+uml&aqs=chrome..69i57.10827j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.quora.com/Do-prestigious-software-companies-regularly-use-UML
+
+
