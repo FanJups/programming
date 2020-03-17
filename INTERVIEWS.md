@@ -20,5 +20,9 @@ https://career.guru99.com/top-50-data-structure-interview-questions/
 
 https://www.tutorialspoint.com/data_structures_algorithms/pdf/data_structures_algorithms_interview_questions.pdf
 
+# java-interview-questions
+
+https://hackr.io/blog/java-interview-questions
+
 
 
