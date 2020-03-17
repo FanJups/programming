@@ -333,3 +333,11 @@ https://www.supinfo.com/articles/single/5642-qu-est-ce-qu-une-api-rest-restful
 
 
 https://dzone.com/articles/break-a-monolith-to-microservices-12-best-practice?edition=583303&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=microservices%202020-03-11
+
+# @RepositoryRestResource
+
+https://www.google.com/search?q=%40RepositoryRestResource&oq=%40RepositoryRestResource&aqs=chrome..69i57j0l7.8265j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/22824840/when-to-use-restcontroller-vs-repositoryrestresource
+
+https://spring.io/guides/gs/accessing-neo4j-data-rest/
