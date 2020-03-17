@@ -10,6 +10,10 @@ https://www.google.com/search?q=what%27s+new+with+angular+8&oq=what%27s+new+with
 
 https://www.pluralsight.com/blog/software-development/new-features-angular-8
 
+# angular guide deprecations
+
+https://angular.io/guide/deprecations
+
 # transactions interview questions and answers pdf
 
 https://www.google.com/search?sxsrf=ALeKk00EKVTOrJLcph_Qf7izuRKZLBm2cw%3A1584353752985&ei=2FFvXsDbO9TD8gLQ1LGoBQ&q=transactions+interview+questions+and+answers+pdf&oq=transactions+interview+questions+and+answers+pdf&gs_l=psy-ab.3...644505.648677..650131...0.5..0.393.3303.2-11j1......0....1..gws-wiz.......0i71j0i7i30.1H01wvbzUvk&ved=0ahUKEwjAp5TV4Z7oAhXUoVwKHVBqDFUQ4dUDCAs&uact=5
