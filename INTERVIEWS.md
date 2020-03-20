@@ -39,4 +39,7 @@ https://hackr.io/blog/java-interview-questions
 https://github.com/HotelsDotCom/bull/blob/master/CONTRIBUTORS.md
 
 
+# microservice-messaging-the-event-that-changed-ever
 
+
+https://dzone.com/articles/microservice-messaging-the-event-that-changed-ever?edition=586291&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-03-19
