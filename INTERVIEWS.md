@@ -61,3 +61,10 @@ https://www.google.com/search?q=Api+gateway&oq=Api+gateway&aqs=chrome..69i57j0l3
 
 
 https://www.axway.com/fr/produits/api-management/api-gateway
+
+
+# java-vs-go-microservices-load-testing-rematch
+
+
+
+ttps://dzone.com/articles/java-vs-go-microservices-load-testing-rematch?edition=586294&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-03-21
