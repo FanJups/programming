@@ -352,4 +352,14 @@ https://www.quora.com/Do-prestigious-software-companies-regularly-use-UML
 
 https://stackoverflow.com/questions/17269843/javadoc-author-tag-good-practices
 
+# how to know if a class is annoted with @Data lombok using Archunit
+
+https://www.google.com/search?q=how+to+know+if+a+class+is+annoted+with+%40Data+lombok+using+Archunit&oq=how+to+know+if+a+class+is+annoted+with+%40Data+lombok+using+Archunit&aqs=chrome..69i57.120120j0j4&sourceid=chrome&ie=UTF-8
+
+https://blog.jdriven.com/2018/10/testing-the-architecture-archunit-in-practice/
+
+https://stackoverflow.com/questions/52851834/how-will-i-know-the-annotations-of-a-java-class
+
+
+
 
