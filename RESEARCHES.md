@@ -348,4 +348,8 @@ https://www.google.com/search?q=companies+projects+uml&oq=companies+projects+uml
 
 https://www.quora.com/Do-prestigious-software-companies-regularly-use-UML
 
+# javadoc-author-tag-good-practices
+
+https://stackoverflow.com/questions/17269843/javadoc-author-tag-good-practices
+
 
