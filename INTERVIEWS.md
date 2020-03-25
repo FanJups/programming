@@ -66,5 +66,10 @@ https://www.axway.com/fr/produits/api-management/api-gateway
 # java-vs-go-microservices-load-testing-rematch
 
 
+https://dzone.com/articles/java-vs-go-microservices-load-testing-rematch?edition=586294&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-03-21
 
-ttps://dzone.com/articles/java-vs-go-microservices-load-testing-rematch?edition=586294&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-03-21
+
+# baeldung java tutorials
+
+
+https://www.baeldung.com/java-tutorial?tl_inbound=1&tl_period_type=3&tl_target_all=1&utm_campaign=auto_38_java&utm_medium=email&utm_source=email-newsletter
