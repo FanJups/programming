@@ -73,3 +73,9 @@ https://dzone.com/articles/java-vs-go-microservices-load-testing-rematch?edition
 
 
 https://www.baeldung.com/java-tutorial?tl_inbound=1&tl_period_type=3&tl_target_all=1&utm_campaign=auto_38_java&utm_medium=email&utm_source=email-newsletter
+
+
+# https spring boot
+
+
+https://dzone.com/articles/how-to-enable-the-https-into-spring-boot-applicati?edition=586298&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202020-03-18
