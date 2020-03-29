@@ -91,3 +91,10 @@ https://www.baeldung.com/cs/code-coverage
 
 
 https://tech.trivago.com/2020/03/20/ask-a-developer-your-questions-answered/
+
+
+# okta microservice-security-patterns
+
+
+
+https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
