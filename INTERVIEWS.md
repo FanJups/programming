@@ -85,3 +85,9 @@ https://dzone.com/articles/how-to-enable-the-https-into-spring-boot-applicati?ed
 
 
 https://www.baeldung.com/cs/code-coverage
+
+# trivago ask-a-developer-your-questions-answered/
+
+
+
+https://tech.trivago.com/2020/03/20/ask-a-developer-your-questions-answered/
