@@ -103,5 +103,9 @@ https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
 # using-a-raspberry-pi-as-your-development-server
 
 
-
 https://dzone.com/articles/using-a-raspberry-pi-as-your-development-server?edition=588298&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-03-28
+
+# the-anatomy-of-a-microservice-one-service-multiple
+
+
+https://dzone.com/articles/the-anatomy-of-a-microservice-one-service-multiple
