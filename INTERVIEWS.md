@@ -131,3 +131,10 @@ https://dzone.com/articles/microservice-definition-and-architecture
 
 
 https://dzone.com/articles/microservices-zone-glossary
+
+
+# 6-defining-features-of-microservices
+
+
+
+https://dzone.com/articles/6-defining-features-of-microservices
