@@ -115,3 +115,10 @@ https://dzone.com/articles/the-anatomy-of-a-microservice-one-service-multiple
 
 
 https://dzone.com/articles/clean-unit-testing?edition=589300&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202020-04-03
+
+
+# microservice-definition-and-architecture
+
+
+
+https://dzone.com/articles/microservice-definition-and-architecture
