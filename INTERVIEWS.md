@@ -122,3 +122,12 @@ https://dzone.com/articles/clean-unit-testing?edition=589300&utm_source=Daily%20
 
 
 https://dzone.com/articles/microservice-definition-and-architecture
+
+
+
+# microservices-zone-glossary
+
+
+
+
+https://dzone.com/articles/microservices-zone-glossary
