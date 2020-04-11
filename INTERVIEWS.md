@@ -138,3 +138,9 @@ https://dzone.com/articles/microservices-zone-glossary
 
 
 https://dzone.com/articles/6-defining-features-of-microservices
+
+
+# what-are-microservices-1
+
+
+https://dzone.com/articles/what-are-microservices-1
