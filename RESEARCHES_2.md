@@ -11,6 +11,10 @@ https://stackoverflow.com/questions/2427238/in-git-what-is-the-difference-betwee
 # transactions-intro
 
 
-
 https://www.baeldung.com/transactions-intro
 
+
+# java-springboot-rest-api-to-uploaddownload-file-on
+
+
+https://dzone.com/articles/java-springboot-rest-api-to-uploaddownload-file-on?edition=597295&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202020-05-06
