@@ -30,3 +30,9 @@ https://www.baeldung.com/spring-security-check-user-role
 
 
 https://angular-templates.io/tutorials
+
+
+# learn-angular-from-scratch-step-by-step
+
+
+https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step
