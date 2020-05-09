@@ -43,3 +43,18 @@ https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-
 
 https://hackingpassion.com/determine-if-your-linux-computer-or-server-is-hacked/
 
+# getting started with java on raspberry pi
+
+
+https://www.google.com/search?q=getting+started+with+java+on+raspberry+pi&oq=getting+started+with+java+on+raspberry+pi&aqs=chrome..69i57j33.43752j0j7&client=ms-android-transsion-tecno-rev1&sourceid=chrome-mobile&ie=UTF-8#sbfbu=1&pi=getting%20started%20with%20java%20on%20raspberry%20pi
+
+
+https://www.oracle.com/technical-resources/articles/java/raspberrypi.html
+
+
+https://webtechie.be/books/
+
+
+
+https://magpi.raspberrypi.org/articles/learn-java-raspberry-pi
+
