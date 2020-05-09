@@ -24,3 +24,9 @@ https://dzone.com/articles/java-springboot-rest-api-to-uploaddownload-file-on?ed
 
 
 https://www.baeldung.com/spring-security-check-user-role
+
+
+# angular-templates io tutorials
+
+
+https://angular-templates.io/tutorials
