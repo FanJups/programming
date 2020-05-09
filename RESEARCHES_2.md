@@ -36,3 +36,10 @@ https://angular-templates.io/tutorials
 
 
 https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step
+
+
+# determine-if-your-linux-computer-or-server-is-hacked
+
+
+https://hackingpassion.com/determine-if-your-linux-computer-or-server-is-hacked/
+
