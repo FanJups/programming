@@ -90,3 +90,8 @@ https://dzone.com/articles/introduction-to-json-with-java
 
 
 https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/amp
+
+
+# interaction_design_foundation
+
+https://linktr.ee/interaction_design_foundation
