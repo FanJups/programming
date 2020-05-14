@@ -106,3 +106,7 @@ https://www.ionos.fr/startupguide/productivite/mail-de-relance-candidature/
 # multiple-cron-task-with-spring-boot-scheduler
 
 https://dzone.com/articles/multiple-cron-task-with-spring-boot-scheduler
+
+# resttemplate-vs-webclient
+
+https://dzone.com/articles/resttemplate-vs-webclient
