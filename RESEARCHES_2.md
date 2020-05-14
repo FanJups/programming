@@ -65,3 +65,8 @@ https://magpi.raspberrypi.org/articles/learn-java-raspberry-pi
 
 https://hackingpassion.com/best-linux-commands-hacks-and-other-cool-tricks-for-beginners/
 
+
+# elasticsearch-index-v76
+
+
+https://dzone.com/articles/elasticsearch-index-v76
