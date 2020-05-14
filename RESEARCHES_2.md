@@ -94,12 +94,9 @@ https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-int
 
 # interaction_design_foundation
 
-
 https://linktr.ee/interaction_design_foundation
 
-
 # mail-de-relance-candidature
-
 
 https://www.ionos.fr/startupguide/productivite/mail-de-relance-candidature/
 
@@ -110,3 +107,8 @@ https://dzone.com/articles/multiple-cron-task-with-spring-boot-scheduler
 # resttemplate-vs-webclient
 
 https://dzone.com/articles/resttemplate-vs-webclient
+
+# using-a-raspberry-pi-as-your-development-server
+
+
+https://dzone.com/articles/using-a-raspberry-pi-as-your-development-server
