@@ -84,3 +84,9 @@ https://medium.com/javarevisited/top-5-courses-to-learn-microservices-in-java-an
 
 
 https://dzone.com/articles/introduction-to-json-with-java
+
+
+# confessions-marcus-hutchins-hacker-who-saved-the-internet
+
+
+https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/amp
