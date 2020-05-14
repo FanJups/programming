@@ -101,5 +101,8 @@ https://linktr.ee/interaction_design_foundation
 # mail-de-relance-candidature
 
 
-
 https://www.ionos.fr/startupguide/productivite/mail-de-relance-candidature/
+
+# multiple-cron-task-with-spring-boot-scheduler
+
+https://dzone.com/articles/multiple-cron-task-with-spring-boot-scheduler
