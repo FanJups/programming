@@ -58,3 +58,10 @@ https://webtechie.be/books/
 
 https://magpi.raspberrypi.org/articles/learn-java-raspberry-pi
 
+
+# best-linux-commands-hacks-and-other-cool-tricks-for-beginners
+
+
+
+https://hackingpassion.com/best-linux-commands-hacks-and-other-cool-tricks-for-beginners/
+
