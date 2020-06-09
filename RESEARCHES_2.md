@@ -118,3 +118,7 @@ https://dzone.com/articles/using-a-raspberry-pi-as-your-development-server
 
 
 https://www.coursera.org/learn/google-cloud-java-spring?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-60sFaezIlyn8TcxfTCQAzA&siteID=JVFxdTr9V80-60sFaezIlyn8TcxfTCQAzA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80
+
+# spring-boot-testing-strategies
+
+https://github.com/mechero/spring-boot-testing-strategies
