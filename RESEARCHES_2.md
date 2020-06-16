@@ -126,3 +126,5 @@ https://github.com/mechero/spring-boot-testing-strategies
 # open-source-organizations
 
 https://github.com/collections/open-source-organizations
+
+https://github.com/d2s/companies/blob/master/src/index.md
