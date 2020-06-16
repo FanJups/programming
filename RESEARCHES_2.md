@@ -122,3 +122,7 @@ https://www.coursera.org/learn/google-cloud-java-spring?ranMID=40328&ranEAID=JVF
 # spring-boot-testing-strategies
 
 https://github.com/mechero/spring-boot-testing-strategies
+
+# open-source-organizations
+
+https://github.com/collections/open-source-organizations
