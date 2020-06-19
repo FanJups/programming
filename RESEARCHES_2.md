@@ -128,3 +128,13 @@ https://github.com/mechero/spring-boot-testing-strategies
 https://github.com/collections/open-source-organizations
 
 https://github.com/d2s/companies/blob/master/src/index.md
+
+# Zone Date Time
+
+https://stackoverflow.com/questions/508019/how-to-store-date-time-and-timestamps-in-utc-time-zone-with-jpa-and-hibernate
+
+https://in.relation.to/2016/09/12/jdbc-time-zone-configuration-property/
+
+https://thorben-janssen.com/hibernate-tips-whats-the-best-way-to-persist-a-zoneddatetime/
+
+https://stackoverflow.com/questions/50836486/hibernate-jdbc-time-zone-utc-ignored
