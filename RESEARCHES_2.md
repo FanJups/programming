@@ -138,3 +138,7 @@ https://in.relation.to/2016/09/12/jdbc-time-zone-configuration-property/
 https://thorben-janssen.com/hibernate-tips-whats-the-best-way-to-persist-a-zoneddatetime/
 
 https://stackoverflow.com/questions/50836486/hibernate-jdbc-time-zone-utc-ignored
+
+# maven-multi-module
+
+https://www.baeldung.com/maven-multi-module
