@@ -142,3 +142,9 @@ https://stackoverflow.com/questions/50836486/hibernate-jdbc-time-zone-utc-ignore
 # maven-multi-module
 
 https://www.baeldung.com/maven-multi-module
+
+# spring boot testing
+
+https://www.bing.com/search?q=spring+boot+testing&cvid=64c7596269ef4072882f51bdab48d0de&aqs=edge.0.0j69i61j0l5.7941j0j1&pglt=2083&FORM=ANNTA1&PC=U531
+
+https://spring.io/guides/gs/testing-web/#:~:text=The%20%40SpringBootTest%20annotation%20tells%20Spring%20Boot%20to%20look,running.%2Fmvnw%20test%20or.%2Fgradlew%20test%29%2C%20and%20it%20should%20pass.
